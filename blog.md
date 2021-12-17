@@ -1,8 +1,13 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Pudhina
 ---
+
+<div id="describe-text">
+	<p>
+		Nothing to see here, yet...
+	</p>
+</div>
 
 <div>
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}

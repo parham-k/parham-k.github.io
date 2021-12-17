@@ -1,8 +1,83 @@
 <div class="about">
-<div class="about__devider">*****</div>
-<div class="about__text">
-<strong> Non sunt multiplicanda entia sine necessitate </strong>
-<br>☕ Pudhina theme by Knhash 🛠️
-<br> You can change this text in _includes/page/about.html
+  <div class="about__devider">*****</div>
+  <div class="about__text">
+    <!--<strong style="white-space: pre" id="quote-text"></strong>
+    <br />
+    <a id="quote-link"></a>
+    <br /><br />-->
+    <a href="//github.com/knhash/Pudhina">☕ Pudhina theme by Knhash 🛠️</a>
+  </div>
 </div>
-</div>
+
+<script>
+  var quotes = [
+    {
+      title: "Time Flies by Porcupine Tree",
+      text: [
+        "She said nothing ever happens,",
+        "If you don't make it happen,",
+        "And if you can't laugh and smile.",
+      ],
+      link: "open.spotify.com/track/66LtH18spUS20HD5kZn7TM",
+    },
+    {
+      title: "Will o the Wisp by Opeth",
+      text: [
+        "And you can never find the satisfaction,",
+        "When you can't outgrow your false distractions",
+      ],
+      link: "open.spotify.com/track/4kkPuJXecGNqHsaiCvdfmn",
+    },
+    {
+      title: "Ordinary World by Green Day",
+      text: [
+        "What would you wish if you saw a shooting star,",
+        "In an ordinary world?",
+        "I'd walk to the end of the earth and afar",
+        "In an ordinary world.",
+      ],
+      link: "open.spotify.com/track/35weSxL477aChs1wx7oZS5",
+    },
+    {
+      title: "Optimistic by Radiohead",
+      text: [
+        "You can try the best you can,",
+        "You can try the best you can,",
+        "The best you can is good enough",
+      ],
+      link: "open.spotify.com/track/1FoUsSi9BCTlNt2Vd7V8XA",
+    },
+    {
+      title: "Song Of Unborn by Steven Wilson",
+      text: [
+        "It's not what you'll possess",
+        "It's how you will express",
+        "The essence of you",
+      ],
+      link: "open.spotify.com/track/6bHiGzAT6lxyWRBXd6lVRF",
+    },
+    {
+      title: "Song Of Unborn by Steven Wilson",
+      text: [
+        "It's not what you'll conceal",
+        "It's all that you'll reveal",
+        "That will make you be you",
+        "The perfection of you",
+      ],
+      link: "open.spotify.com/track/6bHiGzAT6lxyWRBXd6lVRF",
+    },
+    {
+      title: "Song Of Unborn by Steven Wilson",
+      text: [
+        "It's not the years you pass",
+        "It's about the moments that last",
+        "Forever in you",
+      ],
+      link: "open.spotify.com/track/6bHiGzAT6lxyWRBXd6lVRF",
+    },
+  ];
+  const quote = quotes[Math.floor(Math.random() * quotes.length)];
+  document.getElementById("quote-text").textContent = quote.text.join("\n");
+  document.getElementById("quote-link").textContent = quote.title;
+  document.getElementById("quote-link").setAttribute("href", "\\\\" + quote.link);
+</script>
