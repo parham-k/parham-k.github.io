@@ -41,10 +41,29 @@ title: CV
 
 ---
 
-### SELECTED PROJECTS & PUBLICATIONS
-**Fuzzy Word Sense Induction and Disambiguation** <span style="float: right; ">2021</span> 
+### PUBLICATIONS
+**ntHash2: recursive spaced seed hashing for nucleotide sequences**
+<a target="_blank" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac564/6674501">
+<i class="fa fa-external-link-square"></i>
+</a>
+<a target="_blank" href="https://github.com/bcgsc/ntHash">
+<i class="fa fa-github-square"></i>
+</a>
+<span style="float: right;">2022</span> 
 <br>
-Kazemi, P., & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems. [doi: 10.1109/TFUZZ.2021.3133905](https://ieeexplore.ieee.org/document/9645244)
+Kazemi, P., Wong, J., Nikolić, V., Mohamadi, H., Warren, R., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics.
+
+**Fuzzy Word Sense Induction and Disambiguation**
+<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9645244">
+<i class="fa fa-external-link-square"></i>
+</a>
+<span style="float: right;">2021</span> 
+<br>
+Kazemi, P., & Karshenas, H. (2022). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918-3927.
+
+---
+
+### SELECTED PROJECTS
 
 **University of Isfahan's Alumni Social Website** - Backend Developer (Django)
 
