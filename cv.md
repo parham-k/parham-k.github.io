@@ -51,7 +51,7 @@ title: CV
 </a>
 <span style="float: right;">2022</span> 
 <br>
-Kazemi, P., Wong, J., Nikolić, V., Mohamadi, H., Warren, R., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics.
+**Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics.
 
 **Fuzzy Word Sense Induction and Disambiguation**
 <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9645244">
@@ -59,7 +59,18 @@ Kazemi, P., Wong, J., Nikolić, V., Mohamadi, H., Warren, R., & Birol, I. (2022)
 </a>
 <span style="float: right;">2021</span> 
 <br>
-Kazemi, P., & Karshenas, H. (2022). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918-3927.
+**Kazemi, P.**, & Karshenas, H. (2022). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918-3927.
+
+**btllib: A C++ library with Python interface for efficient genomic sequence processing**
+<a target="_blank" href="https://joss.theoj.org/papers/10.21105/joss.04720">
+<i class="fa fa-external-link-square"></i>
+</a>
+<a target="_blank" href="https://github.com/bcgsc/btllib">
+<i class="fa fa-github-square"></i>
+</a>
+<span style="float: right;">2022</span> 
+<br>
+Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. https://doi.org/10.21105/joss.04720
 
 ---
 
