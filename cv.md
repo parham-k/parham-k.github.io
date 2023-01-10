@@ -9,15 +9,18 @@ title: CV
 ### EDUCATION
 
 **PhD in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - Present</span>  
+- Supervised by Dr. Inanc Birol
 - Member of the Bioinformatics Technology Lab at BC Cancer's Genome Sciences Centre
 
 **MSc in Computer Engineering (AI)** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
+- Supervised by Dr. Hossein Karshenas
 - Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments 
-- GPA: 18.42/20, rank unknown
+- GPA: 18.42/20
 
 **BSc in Computer Engineering (Software)** - University of Isfahan <span style="float: right; ">2015 - 2019</span>  
+- Supervised by Dr. Afsaneh Fatemi
 - Thesis: Predicting Persian Twitter Users' MBTI Personality Using Text Mining Methods
-- GPA: 18.25/20, first rank among 75 students
+- GPA: 18.25/20
 - Received CEng Faculty's Distinguished Student Award
 - Participated in ICPC West Asia Regionals (2016, 2017 ranked 16th)
 - Participated in Robocup IranOpen 2D Soccer Simulation League 2017
