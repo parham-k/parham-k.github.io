@@ -58,7 +58,6 @@ title: CV
 <br>
 Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. https://doi.org/10.21105/joss.04720
 
-
 **ntHash2: recursive spaced seed hashing for nucleotide sequences**
 <a target="_blank" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac564/6674501">
 <i class="fa fa-external-link-square"></i>
@@ -80,7 +79,7 @@ Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., War
 
 ---
 
-### SELECTED PROJECTS
+### OTHER PROJECTS
 
 **University of Isfahan's Alumni Social Website** - Backend Developer (Django)
 
@@ -91,15 +90,3 @@ Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., War
 - Deep Learning: Keras, PyTorch, Hugging Face Transformers
 - Others: Linux, LaTeX, Git
 - Keywords: `Bioinformatics`, `De novo Genome Assembly`, `Natural Language Processing`, `Software Engineering`, `Machine Learning`
-
---- 
-
-### LANGUAGES
-
-**Persian** - Native
-<br>
-Mother Tongue
-
-**English** - Fluent
-<br>
-TOEFL iBT Score: 117/120 (R: 30, L: 29, S: 30, W: 28)
