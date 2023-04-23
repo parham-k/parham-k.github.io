@@ -79,6 +79,15 @@ Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., War
 
 ---
 
+### PRESENTATIONS
+
+[poster] **ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities**
+<span style="float: right;">RECOMB-Seq 2023</span> 
+<br>
+**Parham Kazemi**, Hamid Mohamadi, Justin Chu, Lauren Coombe, Rene L Warren and Inanc Birol
+
+---
+
 ### OTHER PROJECTS
 
 **University of Isfahan's Alumni Social Website** - Backend Developer (Django)
