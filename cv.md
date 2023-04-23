@@ -3,8 +3,10 @@ layout: page
 title: CV
 ---
 
-<!--<span style="float: right; "><a href="{{ '/assets/CV-ParhamKazemi.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
-<br>-->
+<span style="float: right; "><a href="{{ '/assets/CV-ParhamKazemi.pdf' | prepend: site.baseurl }}"><strong>> PDF</strong></a> </span>
+<br>
+
+<div id="cv" markdown="1">
 
 ### EDUCATION
 
@@ -26,8 +28,6 @@ title: CV
 - Participated in Robocup IranOpen 2D Soccer Simulation League 2017
 - Participated in National Computer Engineering Olympiad Finals
 
----
-
 ### EXPERIENCE
 
 **Graduate Research Assistant** - Canada's Michael Smith Genome Sciences Centre <span style="float: right; ">2021 - Present</span>
@@ -42,60 +42,41 @@ title: CV
 - Python course instructor
 - Presenter at University of Isfahan's research week 2020 on NLP
 
----
+### PUBLICATIONS <small style="float: right;">scholar.google.com/citations?user=-X4UY5QAAAAJ</small>
 
-### PUBLICATIONS
-
-
-**btllib: A C++ library with Python interface for efficient genomic sequence processing**
+Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. https://doi.org/10.21105/joss.04720
 <a target="_blank" href="https://joss.theoj.org/papers/10.21105/joss.04720">
 <i class="fa fa-external-link-square"></i>
 </a>
 <a target="_blank" href="https://github.com/bcgsc/btllib">
 <i class="fa fa-github-square"></i>
 </a>
-<span style="float: right;">2022</span> 
-<br>
-Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. https://doi.org/10.21105/joss.04720
 
-**ntHash2: recursive spaced seed hashing for nucleotide sequences**
+**Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. https://doi.org/10.1093/bioinformatics/btac564
 <a target="_blank" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac564/6674501">
 <i class="fa fa-external-link-square"></i>
 </a>
 <a target="_blank" href="https://github.com/bcgsc/ntHash">
 <i class="fa fa-github-square"></i>
 </a>
-<span style="float: right;">2022</span> 
-<br>
-**Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics.
 
-**Fuzzy Word Sense Induction and Disambiguation**
+**Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. https://doi.org/10.1109/tfuzz.2021.3133905
 <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9645244">
 <i class="fa fa-external-link-square"></i>
 </a>
-<span style="float: right;">2021</span> 
-<br>
-**Kazemi, P.**, & Karshenas, H. (2022). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918-3927.
-
----
 
 ### PRESENTATIONS
 
-[poster] **ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities**
-<span style="float: right;">RECOMB-Seq 2023</span> 
-<br>
-**Parham Kazemi**, Hamid Mohamadi, Justin Chu, Lauren Coombe, Rene L Warren and Inanc Birol
-
----
+**<ins>Kazemi, P.</ins>**, Mohamadi, H., Chu, J., Coombe, L., L Warren, R., & Birol, I. (2023). ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities. Poster in the 13th RECOMB Satellite Conference on Biological Sequence Analysis.
 
 ### OTHER PROJECTS
 
 **University of Isfahan's Alumni Social Website** - Backend Developer (Django)
-
----
 
 ### SKILLS & INTERESTS
 - Programming Langauges: Python, C++, Java
 - Deep Learning: Keras, PyTorch, Hugging Face Transformers
 - Others: Linux, LaTeX, Git
 - Keywords: `Bioinformatics`, `De novo Genome Assembly`, `Natural Language Processing`, `Software Engineering`, `Machine Learning`
+
+</div>
