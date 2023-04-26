@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parham Kazemi
+title: Hello!
 sitemap:
   priority: 0.9
 ---
@@ -9,7 +9,7 @@ sitemap:
 
 <div id="describe-text">
 	<p>
-		I'm a PhD student in the Bioinformatics program at <a href="//bioinformatics.ubc.ca/">The University of British Columbia (UBC)</a>, and a member of the <a href="//birollab.ca/">Bioinformatics Technology Lab (BTL)</a> at <a href="//bcgsc.ca">BC Cancer's Genome Sciences Centre (BCGSC)</a>.
+		I'm Parham, a PhD student in the Bioinformatics program at <a href="//bioinformatics.ubc.ca/">The University of British Columbia (UBC)</a>, and a member of the <a href="//birollab.ca/">Bioinformatics Technology Lab (BTL)</a> at <a href="//bcgsc.ca">BC Cancer's Genome Sciences Centre (BCGSC)</a>.
 	</p>
 	<p>
 		For work-related matters, please email me at "pkazemi[at]bcgsc[dot]ca".
