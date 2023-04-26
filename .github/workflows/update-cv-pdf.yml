@@ -1,0 +1,27 @@
+name: Update CV PDF file
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  getdataandrefreshmap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout main branch
+        uses: actions/checkout@v3
+      - name: setup python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+      - name: Install dependencies
+        run: pip install beautifulsoup4 md2pdf
+      - name: execute update script and push new cv pdf
+        run: |
+          python cv_pdf_generator.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Auto-update CV PDF"
+          git push
