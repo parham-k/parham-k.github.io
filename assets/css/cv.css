@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond');
-
 body {
-    font-family: 'EB Garamond', sans-serif;
+    font-family: 'Times new roman';
     font-size: 75%;
     color: #012;
     background-color: #FFF;
@@ -9,7 +7,7 @@ body {
 }
 
 table {
-    width:100%;
+    width: 100%;
 }
 
 td {
