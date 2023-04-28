@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-cv-pdf:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - name: checkout main branch
         uses: actions/checkout@v3
