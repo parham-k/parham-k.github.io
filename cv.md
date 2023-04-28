@@ -3,10 +3,14 @@ layout: page
 title: CV
 ---
 
-<span style="float: right; "><a href="{{ '/assets/CV-ParhamKazemi.pdf' | prepend: site.baseurl }}"><strong>> PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/CV-ParhamKazemi.pdf' | prepend: site.baseurl }}"><strong>Download <i class="fa fa-file-pdf-o"></i></strong></a> </span>
 <br>
 
 <div id="cv" markdown="1">
+
+**Keywords —** Bioinformatics, Algorithms, Natural Language Processing, Deep Learning
+<br>
+**Skills —** C++, Python, Java, Rust, PyTorch, Keras
 
 ### EDUCATION
 
@@ -30,53 +34,48 @@ title: CV
 
 ### EXPERIENCE
 
-**Graduate Research Assistant** - Canada's Michael Smith Genome Sciences Centre <span style="float: right; ">2021 - Present</span>
+**Graduate Research Assistant** - Canada's Michael Smith Genome Sciences Centre
+<span style="float: right; ">2021 - Present</span>
 
-**Teaching Assistant** - University of Isfahan <span style="float: right; ">2016 - 2020</span>
-- Courses: *Artificial Intelligence, Algorithm Design, Data Structures and Algorithms, Advanced Programming, Computer Fundamentals, Discrete Mathematics, Technical English*
+**Teaching Assistant** - University of Isfahan
+<span style="float: right; ">2016 - 2020</span>
+- Advanced Programming, Algorithm Design, Artificial Intelligence, Computer Fundamentals, Data Structures, Discrete Mathematics, Technical English
 
-**ACM Students Chapter Member** - University of Isfahan <span style="float: right; ">2017 - 2019</span>
-- Coached teams selected for ICPC West Asia Regionals 2020
-- Problem creator for University of Isfahan's annual high-school students' programming contest
-- Technical committee member for University of Isfahan's AI challenges
+**ACM Students Chapter Member** - University of Isfahan
+<span style="float: right; ">2017 - 2019</span>
+- Team coach at ICPC West Asia Regionals 2020
 - Python course instructor
-- Presenter at University of Isfahan's research week 2020 on NLP
+
+### PROJECTS
+
+**ntHash2: recursive spaced seed hashing for nucleotide sequences**
+<span style="float: right; ">[github.com/bcgsc/ntHash](https://github.com/bcgsc/ntHash)</span>
+<br>
+Lead developer, publication first author
+
+**btllib: Bioinformatics Technology Lab common code library**
+<span style="float: right; ">[github.com/bcgsc/btllib](https://github.com/bcgsc/btllib)</span>
+<br>
+Developer and maintainer
+
+**University of Isfahan's Alumni Social Website**
+<br>
+Backend developer
 
 ### PUBLICATIONS <small style="float: right;">scholar.google.com/citations?user=-X4UY5QAAAAJ</small>
 
-Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. https://doi.org/10.21105/joss.04720
-<a target="_blank" href="https://joss.theoj.org/papers/10.21105/joss.04720">
-<i class="fa fa-external-link-square"></i>
-</a>
-<a target="_blank" href="https://github.com/bcgsc/btllib">
-<i class="fa fa-github-square"></i>
-</a>
+Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. [doi.org/10.21105/joss.04720](https://doi.org/10.21105/joss.04720)
 
-**Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. https://doi.org/10.1093/bioinformatics/btac564
-<a target="_blank" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac564/6674501">
-<i class="fa fa-external-link-square"></i>
-</a>
-<a target="_blank" href="https://github.com/bcgsc/ntHash">
-<i class="fa fa-github-square"></i>
-</a>
+**Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi.org/10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
 
-**Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. https://doi.org/10.1109/tfuzz.2021.3133905
-<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9645244">
-<i class="fa fa-external-link-square"></i>
-</a>
+**Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. [doi.org/10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
 
 ### PRESENTATIONS
 
-**<ins>Kazemi, P.</ins>**, Mohamadi, H., Chu, J., Coombe, L., L Warren, R., & Birol, I. (2023). ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities. Poster in the 13th RECOMB Satellite Conference on Biological Sequence Analysis.
+**Kazemi, P.**, Mohamadi, H., Chu, J., Coombe, L., Warren, R. L., & Birol, I. (2023). ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities. Poster in the 13th RECOMB Satellite Conference on Biological Sequence Analysis (Istanbul, Turkey).
 
-### OTHER PROJECTS
+**Kazemi, P.**, Mohamadi, H., Chu, J., Coombe, L., Warren, R. L., & Birol, I. (2023). ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities. Poster in the BIG23 Research day at the University of British Columbia (Vancouver, Canada).
 
-**University of Isfahan's Alumni Social Website** - Backend Developer (Django)
-
-### SKILLS & INTERESTS
-- Programming Langauges: Python, C++, Java
-- Deep Learning: Keras, PyTorch, Hugging Face Transformers
-- Others: Linux, LaTeX, Git
-- Keywords: `Bioinformatics`, `De novo Genome Assembly`, `Natural Language Processing`, `Software Engineering`, `Machine Learning`
+**Kazemi, P.** (2020). Natural language processing: what, how, and why. Presentation at the University of Isfahan's Annual Research Week (Esfahan, Iran).
 
 </div>

@@ -1,9 +1,9 @@
 body {
     font-family: 'Lato';
-    font-size: 75%;
-    color: #012;
-    background-color: #FFF;
+    font-size: 9pt;
     margin: 0 auto;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 table {
