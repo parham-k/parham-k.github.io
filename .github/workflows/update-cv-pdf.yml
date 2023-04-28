@@ -17,6 +17,8 @@ jobs:
           python-version: 3.11.3
       - name: install dependencies
         run: pip install beautifulsoup4 md2pdf
+      - name: get system fonts
+        run: fc-list
       - name: execute update script and push new cv pdf
         run: |
           python cv_pdf_generator.py
