@@ -21,6 +21,7 @@ ol,
 dl {
   font-size: 100%;
   line-height: 32px;
+  text-align: justify;
 }
 
 img {
