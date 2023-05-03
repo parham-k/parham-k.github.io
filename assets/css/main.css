@@ -21,6 +21,9 @@ ol,
 dl {
   font-size: 100%;
   line-height: 32px;
+}
+
+p {
   text-align: justify;
 }
 
