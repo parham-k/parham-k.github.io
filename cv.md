@@ -36,6 +36,11 @@ title: CV
 
 **Graduate Research Assistant** - Canada's Michael Smith Genome Sciences Centre
 <span style="float: right; ">2021 - Present</span>
+- Member of the Bioinformatics Technology Lab ([birollab.ca](https://birollab.ca))
+
+**Volunteer** - Vancouver Bioinformatics User Group, VanBUG
+<span style="float: right; ">2023 - Present</span>
+- Member of the VanBUG development group ([vanbug.org](https://www.vanbug.org/))
 
 **Teaching Assistant** - University of Isfahan
 <span style="float: right; ">2016 - 2020</span>
