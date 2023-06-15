@@ -6,7 +6,7 @@
 /*************************************************************/
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #ECEFF4;
+  background-color: #f7f7f7;
   color: #2E3440;
 }
 
@@ -14,6 +14,10 @@ a {
   color: #5E81AC;
   font-weight: bold;
   text-decoration: none;
+}
+
+h3 {
+  color: #BF616A;
 }
 
 p,
@@ -60,7 +64,7 @@ blockquote p {
 }
 
 strong {
-  color: #BF616A;
+  color: #4C566A;
 }
 
 .wrapper {
@@ -81,7 +85,7 @@ strong {
 .logo {
   font-size: 300%;
   font-weight: 700;
-  color: #4C566A;
+  color: #648888;
   display: block;
 }
 
