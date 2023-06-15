@@ -3,14 +3,14 @@ layout: page
 title: CV
 ---
 
-<span style="float: right; "><a href="{{ '/assets/CV-ParhamKazemi.pdf' | prepend: site.baseurl }}"><strong>Download <i class="fa fa-file-pdf-o"></i></strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/CV-ParhamKazemi.pdf' | prepend: site.baseurl }}">PDF <i class="fa fa-file-pdf-o"></i></a> </span>
 <br>
 
 <div id="cv" markdown="1">
 
 **Keywords —** Bioinformatics, Algorithms, Natural Language Processing, Deep Learning
 <br>
-**Skills —** C++, Python, Java, Rust, PyTorch, Keras
+**Skills —** C++, Python, Java, PyTorch, Keras
 
 ### EDUCATION
 
@@ -34,13 +34,15 @@ title: CV
 
 ### EXPERIENCE
 
-**Volunteer** - Vancouver Bioinformatics User Group, VanBUG
-<span style="float: right; ">2023 - Present</span>
-- Member of the VanBUG development group ([vanbug.org](https://www.vanbug.org/))
-
 **Graduate Research Assistant** - Canada's Michael Smith Genome Sciences Centre
 <span style="float: right; ">2021 - Present</span>
 - Member of the Bioinformatics Technology Lab ([birollab.ca](https://birollab.ca))
+- Developer of ntHash2
+- Maintainer of btllib (Bioinformatics Technology Lab common code library)
+
+**Volunteer** - Vancouver Bioinformatics User Group, VanBUG
+<span style="float: right; ">2023 - Present</span>
+- Member of the VanBUG development group ([vanbug.org](https://www.vanbug.org/))
 
 **Teaching Assistant** - University of Isfahan
 <span style="float: right; ">2016 - 2020</span>
@@ -56,12 +58,7 @@ title: CV
 **ntHash2: recursive spaced seed hashing for nucleotide sequences**
 <span style="float: right; ">[github.com/bcgsc/ntHash](https://github.com/bcgsc/ntHash)</span>
 <br>
-Lead developer, publication first author
-
-**btllib: Bioinformatics Technology Lab common code library**
-<span style="float: right; ">[github.com/bcgsc/btllib](https://github.com/bcgsc/btllib)</span>
-<br>
-Developer and maintainer
+Lead developer, publication's first author
 
 **University of Isfahan's Alumni Social Website**
 <br>
@@ -78,8 +75,6 @@ Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., War
 ### PRESENTATIONS
 
 **Kazemi, P.**, Mohamadi, H., Chu, J., Coombe, L., Warren, R. L., & Birol, I. (2023). ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities. Poster in the 13th RECOMB Satellite Conference on Biological Sequence Analysis (Istanbul, Turkey).
-
-**Kazemi, P.**, Mohamadi, H., Chu, J., Coombe, L., Warren, R. L., & Birol, I. (2023). ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities. Poster in the BIG23 Research day at the University of British Columbia (Vancouver, Canada).
 
 **Kazemi, P.** (2020). Natural language processing: what, how, and why. Presentation at the University of Isfahan's Annual Research Week (Esfahan, Iran).
 
