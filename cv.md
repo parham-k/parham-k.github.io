@@ -64,7 +64,7 @@ Lead developer, publication's first author
 <br>
 Backend developer
 
-### PUBLICATIONS <small style="float: right;">scholar.google.com/citations?user=-X4UY5QAAAAJ</small>
+### PUBLICATIONS
 
 Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. [doi.org/10.21105/joss.04720](https://doi.org/10.21105/joss.04720)
 
