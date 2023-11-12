@@ -66,6 +66,8 @@ Backend developer
 
 ### PUBLICATIONS
 
+Wong, J., **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (11 2023). aaHash: recursive amino acid sequence hashing. Bioinformatics Advances, vbad162. doi:10.1093/bioadv/vbad162
+
 Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. [doi.org/10.21105/joss.04720](https://doi.org/10.21105/joss.04720)
 
 **Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi.org/10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
