@@ -15,7 +15,7 @@ I always enjoy meeting new people and making friends, so do feel free to reach o
 
 ### Work and study
 
-I'm a PhD student in the Bioinformatics program at [The University of British Columbia (UBC)](https://www.bioinformatics.ubc.ca/), and a member of the [Bioinformatics Technology Lab (BTL)](https://www.birollab.ca/) led by Dr. Inanc Birol at [BC Cancer's Genome Sciences Centre (BCGSC)](https://www.bcgsc.ca/). My expertise is in algorithm design, deep reinforcement learning, and natural language processing. Currently, I develop fundamental algorithms for sequence analysis and apply machine learning to genome assembly pipelines.
+I'm a PhD candidate in the Bioinformatics program at [The University of British Columbia (UBC)](https://www.bioinformatics.ubc.ca/), and a member of the [Bioinformatics Technology Lab (BTL)](https://www.birollab.ca/) led by Dr. Inanc Birol at [BC Cancer's Genome Sciences Centre (BCGSC)](https://www.bcgsc.ca/). My expertise is in algorithm design, deep reinforcement learning, and natural language processing. Currently, I develop fundamental algorithms for sequence analysis and apply machine learning to genome assembly pipelines.
 
 ### Contact
 
