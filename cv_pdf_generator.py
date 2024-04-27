@@ -7,7 +7,7 @@ HEADER = """
 
 <table>
   <tr>
-    <td>pkazemi@bcgsc.ca</td>
+    <td>pkazemi3@gmail.com</td>
     <td>parham-k.github.io</td>
     <td>github.com/parham-k</td>
   </tr>
