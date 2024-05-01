@@ -8,61 +8,55 @@ title: CV
 
 <div id="cv" markdown="1">
 
-**Keywords —** Bioinformatics, Algorithms, Natural Language Processing, Deep Learning
+**Keywords —** Bioinformatics, Signal Processing, Natural Language Processing, Deep Learning
 <br>
 **Skills —** C++, Python, Java, PyTorch, Keras
 
 ### EDUCATION
 
-**PhD in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - Present</span>  
-- Supervised by Dr. Inanc Birol
-- Member of the Bioinformatics Technology Lab at BC Cancer's Genome Sciences Centre
+**PhD Candidate in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - Present</span>  
 
 **MSc in Computer Engineering (AI)** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
-- Supervised by Dr. Hossein Karshenas
 - Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments 
 - GPA: 18.42/20
 
 **BSc in Computer Engineering (Software)** - University of Isfahan <span style="float: right; ">2015 - 2019</span>  
-- Supervised by Dr. Afsaneh Fatemi
 - Thesis: Predicting Persian Twitter Users' MBTI Personality Using Text Mining Methods
-- GPA: 18.25/20
-- Received CEng Faculty's Distinguished Student Award
-- Participated in ICPC West Asia Regionals (2016, 2017 ranked 16th)
-- Participated in Robocup IranOpen 2D Soccer Simulation League 2017
-- Participated in National Computer Engineering Olympiad Finals
+- GPA: 18.25/20 (highest in cohort)
+- Attended ICPC West Asia Regionals 2016 and 2017
+- Competed in Robocup IranOpen 2D Soccer Simulation League 2017
+- Finalist at the National Computer Engineering Olympiad 2019
 
 ### EXPERIENCE
 
-**Graduate Research Assistant** - Canada's Michael Smith Genome Sciences Centre
+**Graduate Research Assistant** - BC Cancer's Genome Sciences Centre
 <span style="float: right; ">2021 - Present</span>
 - Member of the Bioinformatics Technology Lab ([birollab.ca](https://birollab.ca))
-- Developer of ntHash2
-- Maintainer of btllib (Bioinformatics Technology Lab common code library)
+- 1 first-author publication, collaborated on 4 papers (to date)
 
-**Volunteer** - Vancouver Bioinformatics User Group, VanBUG
-<span style="float: right; ">2023 - Present</span>
-- Member of the VanBUG development group ([vanbug.org](https://www.vanbug.org/))
+**Backend Developer and System Administrator** - University of Isfahan
+<span style="float: right; ">2018 - 2021</span>
+- Led the development of the University of Isfahan's Alumni Social Website ([alumni.ui.ac.ir](https://alumni.ui.ac.ir/))
+- Deployed and maintained as a Django app on a Linux server with nginx and uwsgi
 
 **Teaching Assistant** - University of Isfahan
 <span style="float: right; ">2016 - 2020</span>
-- Advanced Programming, Algorithm Design, Artificial Intelligence, Computer Fundamentals, Data Structures, Discrete Mathematics, Technical English
+- Fundamentals of Computer Programming (C++) and Advanced Programming (Java/C++)
+- Data Structures and Algorithm Design
+- Artificial Intelligence (developed a game environment for evaluating final projects)
+- Technical English for Computer Engineering
+
+### VOLUNTARY AND EXTRACURRICULAR WORK
+
+**Volunteer Organizer** - Vancouver Bioinformatics User Group ([vanbug.org](https://vanbug.org/))
+<span style="float: right; ">2023 - Present</span>
+- Responsible for promoting monthly bioinformatics seminars by local and international speakers
 
 **ACM Students Chapter Member** - University of Isfahan
 <span style="float: right; ">2017 - 2019</span>
-- Team coach at ICPC West Asia Regionals 2020
-- Python course instructor
-
-### PROJECTS
-
-**ntHash2: recursive spaced seed hashing for nucleotide sequences**
-<span style="float: right; ">[github.com/bcgsc/ntHash](https://github.com/bcgsc/ntHash)</span>
-<br>
-Lead developer, publication's first author
-
-**University of Isfahan's Alumni Social Website**
-<br>
-Backend developer
+- Coached 2 university teams at ICPC West Asia Regionals 2020
+- Instructed Python and Django courses
+- Assisted in technical setup for high school and undergraduate programming contests and AI challenges
 
 ### PUBLICATIONS
 

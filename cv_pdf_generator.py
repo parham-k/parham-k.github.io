@@ -3,15 +3,20 @@ from bs4 import BeautifulSoup
 from md2pdf.core import md2pdf
 
 HEADER = """
-<div style="text-align: center;font-size: 200%;">PARHAM KAZEMI</div>
+<div id="header">
+
+<span id="name">PARHAM KAZEMI</span>
 
 <table>
   <tr>
     <td>pkazemi3@gmail.com</td>
     <td>parham-k.github.io</td>
     <td>github.com/parham-k</td>
+    <td>linkedin.com/in/p-kazemi</td>
   </tr>
 </table>
+
+</div>
 """
 
 BASE_DIR = os.path.dirname(__file__)
