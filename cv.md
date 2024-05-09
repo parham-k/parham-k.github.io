@@ -8,17 +8,17 @@ title: CV
 
 <div id="cv" markdown="1">
 
-**Keywords —** Bioinformatics, Signal Processing, Natural Language Processing, Deep Learning
-<br>
-**Skills —** C++, Python, Java, PyTorch, Keras
+**Keywords —** Software Engineering, Bioinformatics, Signal Processing, Machine Learning, Deep Learning, Natural Language Processing
 
 ### EDUCATION
 
 **PhD Candidate in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - Present</span>  
+- 1 first-author publication, 4 paper collaborations
 
 **MSc in Computer Engineering (AI)** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
 - Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments 
 - GPA: 18.42/20
+- 1 first-author publication
 
 **BSc in Computer Engineering (Software)** - University of Isfahan <span style="float: right; ">2015 - 2019</span>  
 - Thesis: Predicting Persian Twitter Users' MBTI Personality Using Text Mining Methods
@@ -32,11 +32,12 @@ title: CV
 **Graduate Research Assistant** - BC Cancer's Genome Sciences Centre
 <span style="float: right; ">2021 - Present</span>
 - Member of the Bioinformatics Technology Lab ([birollab.ca](https://birollab.ca))
-- 1 first-author publication, collaborated on 4 papers (to date)
+- Developed tools in C++ and Python for genomics analysis
+- Used machine learning and deep learning for assembly polishing and nanopore signal analysis
 
 **Backend Developer and System Administrator** - University of Isfahan
 <span style="float: right; ">2018 - 2021</span>
-- Led the development of the University of Isfahan's Alumni Social Website ([alumni.ui.ac.ir](https://alumni.ui.ac.ir/))
+- Lead developer of the University of Isfahan's Alumni Social Website
 - Deployed and maintained as a Django app on a Linux server with nginx and uwsgi
 
 **Teaching Assistant** - University of Isfahan
