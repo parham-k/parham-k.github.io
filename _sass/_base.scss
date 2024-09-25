@@ -131,6 +131,10 @@ span.link {
   }
 }
 
+span.link b {
+  display: none;
+}
+
 /**
  * Enforce bold (Firefox)
  */

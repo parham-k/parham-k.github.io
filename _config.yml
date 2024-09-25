@@ -19,9 +19,13 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: Personal email
+      name: Personal
       value: pkazemi3@gmail.com
-      icon: fa-solid fa-envelope
+      icon: fa-solid fa-envelope-open-text
+    - type: email
+      name: Work
+      value: pkazemi@bcgsc.ca
+      icon: fa-solid fa-envelope-open-text
   follow:
     - type: twitter
       name: Twitter/X

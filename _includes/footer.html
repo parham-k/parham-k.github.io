@@ -28,7 +28,7 @@
                     id="{{ contact.type }}-link"
                     class="link email-link-cloaked"
                   >
-                    {{ contact.name }}
+                    {{ contact.name }}: {{ user }}@<b>{{ user }}</b>{{ domain_name }}<b>.{{ domain_name }}</b>.{{ domain_tld }}
                   </span>
                 {% else %}
                   <a href="mailto:{{ contact.value }}" id="{{ contact.type }}-link">
