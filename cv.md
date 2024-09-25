@@ -24,24 +24,15 @@ slug: /cv
 
 <div class="cv" markdown="1">
 
-**Keywords —** Software Engineering, Bioinformatics, Signal Processing, Machine Learning, Deep Learning, Natural Language Processing
+### SKILLS
 
-### EDUCATION
+**Software Development —** Software Engineering (Agile, DevOps, CI), Programming (Python, C++, Java), Backend Web Development (Django, REST API, nginx, uWSGI), Databases (MySQL, PostgreSQL), Project Management (Git, JIRA, Trello)
 
-**PhD Candidate in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - Present</span>  
-- 1 first-author publication, 4 paper collaborations
+**Artificial Intelligence —** Statistical Machine Learning, Deep Learning (Tensorflow, PyTorch, Keras), Reinforcement Learning (OpenAI Gym, Stable Baselines), Natural Language Processing (Transformers, NLTK), Signal Processing (librosa)
 
-**MSc in Computer Engineering (AI)** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
-- Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments 
-- GPA: 18.42/20
-- 1 first-author publication
+**Bioinformatics —** Genome Assembly, DNA Sequence Analysis, Nanopore Sequencing, Methylation Analysis, Single Cell Sequencing
 
-**BSc in Computer Engineering (Software)** - University of Isfahan <span style="float: right; ">2015 - 2019</span>  
-- Thesis: Predicting Persian Twitter Users' MBTI Personality Using Text Mining Methods
-- GPA: 18.25/20 (highest in cohort)
-- Attended ICPC West Asia Regionals 2016 and 2017
-- Competed in Robocup IranOpen 2D Soccer Simulation League 2017
-- Finalist at the National Computer Engineering Olympiad 2019
+**Soft skills —** Teamwork, Problem-solving, Time Management, Mentoring, Creativity, Attention to Detail, Flexibility
 
 ### EXPERIENCE
 
@@ -63,10 +54,27 @@ slug: /cv
 - Artificial Intelligence (developed a game environment for evaluating final projects)
 - Technical English for Computer Engineering
 
+### EDUCATION
+
+**PhD Candidate in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - Present</span>  
+- 1 first-author publication, 4 paper collaborations
+
+**MSc in Computer Engineering (AI)** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
+- Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments 
+- GPA: 18.42/20
+- 1 first-author publication
+
+**BSc in Computer Engineering (Software)** - University of Isfahan <span style="float: right; ">2015 - 2019</span>  
+- Thesis: Predicting Persian Twitter Users' MBTI Personality Using Text Mining Methods
+- GPA: 18.25/20 (highest in cohort)
+- Attended ICPC West Asia Regionals 2016 and 2017
+- Competed in Robocup IranOpen 2D Soccer Simulation League 2017
+- Finalist at the National Computer Engineering Olympiad 2019
+
 ### VOLUNTARY AND EXTRACURRICULAR WORK
 
 **Volunteer Organizer** - Vancouver Bioinformatics User Group ([vanbug.org](https://vanbug.org/))
-<span style="float: right; ">2023 - Present</span>
+<span style="float: right; ">2023 - 2024</span>
 - Responsible for promoting monthly bioinformatics seminars by local and international speakers
 
 **ACM Students Chapter Member** - University of Isfahan

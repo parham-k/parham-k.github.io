@@ -1,3 +1,7 @@
+.cv table {
+    width: 100%;
+}
+
 @media screen {
 
     .print-button {
@@ -15,18 +19,25 @@
 
 @media print {
     body {
-        font-family: "Arial";
-        font-size: 11pt;
+        font-family: "Arial", sans-serif;
+        font-size: 12pt;
+        line-height: 1.25;
     }
 
     h3 {
         font-weight: normal;
         border-bottom: 1px solid #000;
-        font-family: "Arial";
+        font-family: "Arial", sans-serif;
+        margin-top: 0.5cm;
+        margin-bottom: 0.25cm;
     }
 
+    li { 
+        margin-bottom: 0;  
+     }
+
     p {
-        margin-bottom: 5px;
+        margin-bottom: 0;
     }
 
     .print-button {
@@ -45,7 +56,6 @@
 
     .cv-header table {
         width: 100%;
-        font-size: small;
         text-align: center;
     }
 
