@@ -1,12 +1,28 @@
 ---
-layout: page
+layout: default
 title: CV
+slug: /cv
 ---
 
-<span style="float: right; "><a href="{{ '/assets/CV-ParhamKazemi.pdf' | prepend: site.baseurl }}">PDF <i class="fa fa-file-pdf-o"></i></a> </span>
+<span class="print-button"><a href="javascript:window.print();"><i class="fa-solid fa-print"></i> Print</a></span>
 <br>
 
-<div id="cv" markdown="1">
+<div class="cv-header">
+
+<p>PARHAM KAZEMI</p>
+
+<table>
+  <tr>
+    <td>pkazemi3@gmail.com</td>
+    <td>parham-k.github.io</td>
+    <td>github.com/parham-k</td>
+    <td>linkedin.com/in/p-kazemi</td>
+  </tr>
+</table>
+
+</div>
+
+<div class="cv" markdown="1">
 
 **Keywords —** Software Engineering, Bioinformatics, Signal Processing, Machine Learning, Deep Learning, Natural Language Processing
 
