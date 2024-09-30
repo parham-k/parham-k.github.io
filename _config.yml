@@ -48,6 +48,10 @@ footer:
       name: Instagram
       link: https://www.instagram.com/parham._.kazemi
       icon: fa-brands fa-instagram
+    - type: unsplash
+      name: Unsplash
+      link: https://unsplash.com/@parham_kzm
+      icon: fa-brands fa-unsplash
 
 # Build settings
 markdown: kramdown
