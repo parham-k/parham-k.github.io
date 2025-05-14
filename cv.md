@@ -24,21 +24,26 @@ slug: /cv
 
 <div class="cv" markdown="1">
 
+PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, applying machine learning to genome assembly, nanopore signal analysis, and methylation profiling. Strong programming skills in Python and C++, with experience in developing high-performance bioinformatics tools. Passionate about computational biology, antibody therapeutics, and contributing to translational research in multidisciplinary teams.
+
 ### SKILLS
 
-**Software Development —** Software Engineering (Agile, DevOps, CI), Programming (Python, C++, Java), Backend Web Development (Django, REST API, nginx, uWSGI), Databases (MySQL, PostgreSQL), Project Management (Git, JIRA, Trello)
+**Bioinformatics & Genomics —** Genome Assembly, Variant Calling, Sequence Alignment, Nanopore Sequencing, Methylation Analysis, Single Cell Sequencing
 
-**Artificial Intelligence —** Statistical Machine Learning, Deep Learning (Tensorflow, PyTorch, Keras), Reinforcement Learning (OpenAI Gym, Stable Baselines), Natural Language Processing (Transformers, NLTK), Signal Processing (librosa)
+**Machine Learning & AI —** Deep Learning, Reinforcement Learning, Signal Processing, Natural Language Processing
 
-**Bioinformatics —** Genome Assembly, DNA Sequence Analysis, Nanopore Sequencing, Methylation Analysis, Single Cell Sequencing
+**Programming & Development —** Python, C++, Java, Django, REST APIs, Git, PostgreSQL
 
-**Soft skills —** Teamwork, Problem-solving, Time Management, Mentoring, Creativity, Attention to Detail, Flexibility
+**Visualization & Reporting —** Matplotlib, Seaborn, Pandas, Plotly
+
+**Currently Exploring —** Protein Sequence Analysis, Antibody Engineering, Structural Bioinformatics (e.g. AlphaFold, PyMOL)
 
 ### EXPERIENCE
 
 **Graduate Research Assistant** - BC Cancer's Genome Sciences Centre
 <span style="float: right; ">2021 - Present</span>
 - Member of the Bioinformatics Technology Lab ([birollab.ca](https://birollab.ca))
+- Worked in a multidisciplinary research environment, collaborating with genomics scientists and software engineers
 - Developed tools in C++ and Python for genomics analysis
 - Used machine learning and deep learning for assembly polishing and nanopore signal analysis
 
@@ -73,6 +78,15 @@ slug: /cv
 
 ### VOLUNTARY AND EXTRACURRICULAR WORK
 
+**Student Mentor** - Undergraduate Research Opportunities (UBC URO)
+<span style="float: right; ">2024 - 2025</span>
+- Mentored 5 students from computer science, biochemistry, and medical school backgrounds
+- Supervised a mini-review project on nanopore sequencing and its applications in understanding cancer therapy resistance
+
+**Conference Adjudicator** - Multidisciplinary Undergraduate Research Conference (UBC MURC)
+<span style="float: right; ">2024</span>
+- Reviewed and adjudicated undergraduate posters related to bioinformatics and genome sequencing
+
 **Volunteer Organizer** - Vancouver Bioinformatics User Group ([vanbug.org](https://vanbug.org/))
 <span style="float: right; ">2023 - 2024</span>
 - Responsible for promoting monthly bioinformatics seminars by local and international speakers
@@ -82,6 +96,11 @@ slug: /cv
 - Coached 2 university teams at ICPC West Asia Regionals 2020
 - Instructed Python and Django courses
 - Assisted in technical setup for high school and undergraduate programming contests and AI challenges
+
+### RELATED INTERESTS & LEARNING
+
+- Self-guided learning on antibody structure-function relationships, sequence optimization, and protein modeling tools like AlphaFold
+- Reading recent literature on therapeutic antibody development and viral immune evasion mechanisms
 
 ### PUBLICATIONS
 
