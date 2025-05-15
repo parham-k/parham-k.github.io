@@ -24,7 +24,7 @@ slug: /cv
 
 <div class="cv" markdown="1">
 
-PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, applying machine learning to genome assembly, nanopore signal analysis, and methylation profiling. Strong programming skills in Python and C++, with experience in developing high-performance bioinformatics tools. Passionate about computational biology, antibody therapeutics, and contributing to translational research in multidisciplinary teams.
+PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, applying machine learning to genome assembly, nanopore signal analysis, and methylation profiling. Strong programming skills in Python and C++, with experience in developing high-performance bioinformatics tools. Passionate about computational biology, deep learning, and contributing to translational research in multidisciplinary teams.
 
 ### SKILLS
 
@@ -35,8 +35,6 @@ PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, a
 **Programming & Development —** Python, C++, Java, Django, REST APIs, Git, PostgreSQL
 
 **Visualization & Reporting —** Matplotlib, Seaborn, Pandas, Plotly
-
-**Currently Exploring —** Protein Sequence Analysis, Antibody Engineering, Structural Bioinformatics (e.g. AlphaFold, PyMOL)
 
 ### EXPERIENCE
 
@@ -96,11 +94,6 @@ PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, a
 - Coached 2 university teams at ICPC West Asia Regionals 2020
 - Instructed Python and Django courses
 - Assisted in technical setup for high school and undergraduate programming contests and AI challenges
-
-### RELATED INTERESTS & LEARNING
-
-- Self-guided learning on antibody structure-function relationships, sequence optimization, and protein modeling tools like AlphaFold
-- Reading recent literature on therapeutic antibody development and viral immune evasion mechanisms
 
 ### PUBLICATIONS
 
