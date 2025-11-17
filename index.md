@@ -5,10 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-Hello there! I’m Parham, a PhD candidate in the <a href="https://www.bioinformatics.ubc.ca/">Bioinformatics program at UBC, Vancouver</a>. I work at the <a href="https://www.birollab.ca/">Birol Lab</a> at <a href="https://bcgsc.ca/">BC Cancer’s Genome Sciences Centre</a>, where my current research focuses on applying machine learning to genome assembly and methylation analysis, along with deep learning for nanopore signal data. During my master’s, I explored reinforcement learning and natural language processing.
-</p>
+Hello there! I’m Parham, a PhD candidate in the [Bioinformatics program at UBC](https://www.bioinformatics.ubc.ca/). I conduct my research at the [Birol Lab](https://www.birollab.ca/) in [Canada's Michael Smith Genome Sciences Centre](https://bcgsc.ca/), where I develop software and train deep learning models for genomic sequence analysis and nanopore signal processing. My background also includes work in reinforcement learning and NLP.
 
-<p>
-Outside of research, I enjoy photography, listening to music (some of my favorite bands are Porcupine Tree, Opeth, Blur, Soen, Anathema, Antimatter, and Gojira), and anything related to cars. I’m also a huge Manchester United fan.
-</p>
+I love photography, music, Soulsborne and strategy video games, and all things related to cars. I’m also a huge Manchester United fan. Feel free to connect on any of the social media platforms listed below!

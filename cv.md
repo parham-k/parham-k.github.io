@@ -24,7 +24,7 @@ slug: /cv
 
 <div class="cv" markdown="1">
 
-PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, applying machine learning to genome assembly, nanopore signal analysis, and methylation profiling. Strong programming skills in Python and C++, with experience in developing high-performance bioinformatics tools. Passionate about computational biology, deep learning, and contributing to translational research in multidisciplinary teams.
+PhD Candidate in Bioinformatics at UBC and Canada's Michael Smith Genome Sciences Centre with expertise in high-performance software development and deep learning (C++/Python). Specialized in creating tools for genomic sequence analysis and analyzing Oxford Nanopore signal data.
 
 ### SKILLS
 
@@ -74,7 +74,7 @@ PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, a
 - Competed in Robocup IranOpen 2D Soccer Simulation League 2017
 - Finalist at the National Computer Engineering Olympiad 2019
 
-### VOLUNTARY AND EXTRACURRICULAR WORK
+### VOLUNTARY & EXTRACURRICULAR WORK
 
 **Student Mentor** - Undergraduate Research Opportunities (UBC URO)
 <span style="float: right; ">2024 - 2025</span>
@@ -97,24 +97,28 @@ PhD candidate in Bioinformatics at UBC and BC Cancer's Genome Sciences Centre, a
 
 ### PUBLICATIONS
 
-Warren, R. L., Coombe, L., Wong, J., **Kazemi, P.**, & Birol, I. (2024). Human ancestry inference at scale, from genomic data. bioRxiv, 2024-03.
+- Warren, R. L., Coombe, L., Wong, J., **Kazemi, P.**, & Birol, I. (2025). ntRoot: computational inference of human ancestry at scale from genomic data. Bioinformatics Advances, vbaf287. [doi.org/10.1093/bioadv/vbaf287](https://doi.org/10.1093/bioadv/vbaf287)
 
-Coombe, L., **Kazemi, P.**, Wong, J., Birol, I., & Warren, R. L. (2024). Multi-genome synteny detection using minimizer graph mappings. bioRxiv, 2024-02.
+- Coombe, L., **Kazemi, P.**, Wong, J., Birol, I., & Warren, R. L. (2024). Multi-genome synteny detection using minimizer graph mappings. bioRxiv, 2024-02.
 
-Wong, J., **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (11 2023). aaHash: recursive amino acid sequence hashing. Bioinformatics Advances, vbad162. doi:10.1093/bioadv/vbad162
+- Wong, J., **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (11 2023). aaHash: recursive amino acid sequence hashing. Bioinformatics Advances, vbad162. [doi.org/10.1093/bioadv/vbad162](https://doi.org/10.1093/bioadv/vbad162)
 
-Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. [doi.org/10.21105/joss.04720](https://doi.org/10.21105/joss.04720)
+- Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. [doi.org/10.21105/joss.04720](https://doi.org/10.21105/joss.04720)
 
-**Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi.org/10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
+- **Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi.org/10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
 
-**Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. [doi.org/10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
+- **Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. [doi.org/10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
 
-### PRESENTATIONS
+### PRESENTATIONS & TALKS
 
-**Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (2024). AIEdit: Genome Assembly Polishing using Machine Learning and Spaced Seeds. Poster in BIG Research Day 24 (Vancouver, Canada)
+- [Modelling k-mer profiles of sequencing data with evolutionary algorithms](https://www.vanbug.org/archive/2025/2025-02-20/) (Vancouver Bioinformatics User Group, 2025)
 
-**Kazemi, P.**, Mohamadi, H., Chu, J., Coombe, L., Warren, R. L., & Birol, I. (2023). ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities. Poster in the 13th RECOMB Satellite Conference on Biological Sequence Analysis (Istanbul, Turkey)
+- AIEdit: Genome Assembly Polishing using Machine Learning and Spaced Seeds (Poster in BIG Research Day 2024, UBC)
 
-**Kazemi, P.** (2020). Natural language processing: what, how, and why. Presentation at the University of Isfahan's Annual Research Week (Esfahan, Iran)
+- ntHits: streaming through raw sequencing data to profile and filter k-mers with selected multiplicities (Poster in the 13th RECOMB Satellite Conference on Biological Sequence Analysis, Istanbul, 2023)
+
+- [Not so artificial intelligence](https://www.ted.com/talks/parham_kazemi_not_so_artificial_intelligence) (TEDx University Of Isfahan, 2021)
+
+- Natural language processing: what, how, and why (Presentation at the University of Isfahan's Research Week, 2020)
 
 </div>
