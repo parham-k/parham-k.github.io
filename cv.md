@@ -97,17 +97,17 @@ PhD Candidate in Bioinformatics at UBC and Canada's Michael Smith Genome Science
 
 ### PUBLICATIONS
 
-- Warren, R. L., Coombe, L., Wong, J., **Kazemi, P.**, & Birol, I. (2025). ntRoot: computational inference of human ancestry at scale from genomic data. Bioinformatics Advances, vbaf287. [doi.org/10.1093/bioadv/vbaf287](https://doi.org/10.1093/bioadv/vbaf287)
+- Warren, R. L., Coombe, L., Wong, J., **Kazemi, P.**, & Birol, I. (2025). ntRoot: computational inference of human ancestry at scale from genomic data. Bioinformatics Advances, vbaf287. [doi:10.1093/bioadv/vbaf287](https://doi.org/10.1093/bioadv/vbaf287)
 
-- Coombe, L., **Kazemi, P.**, Wong, J., Birol, I., & Warren, R. L. (2024). Multi-genome synteny detection using minimizer graph mappings. bioRxiv, 2024-02.
+- Coombe, L., Kazemi, P., Wong, J., Birol, I., & Warren, R. L. (2025). ntSynt: multi-genome synteny detection using minimizer graph mappings. BMC biology, 23(1), 367. [doi:10.1186/s12915-025-02455-w](https://doi.org/10.1186/s12915-025-02455-w)
 
-- Wong, J., **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (11 2023). aaHash: recursive amino acid sequence hashing. Bioinformatics Advances, vbad162. [doi.org/10.1093/bioadv/vbad162](https://doi.org/10.1093/bioadv/vbad162)
+- Wong, J., **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (11 2023). aaHash: recursive amino acid sequence hashing. Bioinformatics Advances, vbad162. [doi:10.1093/bioadv/vbad162](https://doi.org/10.1093/bioadv/vbad162)
 
-- Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. [doi.org/10.21105/joss.04720](https://doi.org/10.21105/joss.04720)
+- Nikolić, V., **Kazemi, P.**, Coombe, L., Wong, J., Afshinfard, A., Chu, J., Warren, R. L., & Birol, I. (2022). btllib: A C++ library with Python interface for efficient genomic sequence processing. Journal of Open Source Software, 7(79), 4720. [doi:10.21105/joss.04720](https://doi.org/10.21105/joss.04720)
 
-- **Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi.org/10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
+- **Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi:10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
 
-- **Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. [doi.org/10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
+- **Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. [doi:10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
 
 ### PRESENTATIONS & TALKS
 
