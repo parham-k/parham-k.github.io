@@ -24,43 +24,42 @@ slug: /cv
 
 <div class="cv" markdown="1">
 
-PhD Candidate in Bioinformatics at UBC and Canada's Michael Smith Genome Sciences Centre with expertise in high-performance software development and deep learning (C++/Python). Specialized in creating tools for genomic sequence analysis and analyzing Oxford Nanopore signal data.
+Software Engineer & PhD Candidate with 8+ years of experience specializing in high-performance C++ and backend systems (Java, Python/Django). Expert in architecting scalable solutions for processing massive datasets (billions of data points), leading technical teams, and optimizing production-grade CI/CD pipelines.
 
 ### SKILLS
 
-**Bioinformatics & Genomics —** Genome Assembly, Variant Calling, Sequence Alignment, Nanopore Sequencing, Methylation Analysis, Single Cell Sequencing
+**Backend & Distributed Systems —** Java, Python (Django), REST APIs, Microservices Architecture, Unit Testing
 
-**Machine Learning & AI —** Deep Learning, Reinforcement Learning, Signal Processing, Natural Language Processing
+**High-Performance Computing —** C++, Multi-threading, System Design, Memory Optimization, Performance Profiling
 
-**Programming & Development —** Python, C++, Java, Django, REST APIs, Git, PostgreSQL
+**Data Modeling & Cloud —** PostgreSQL, MySQL, NoSQL, Docker, Azure, CI/CD (GitHub Actions, Jenkins)
 
-**Visualization & Reporting —** Matplotlib, Seaborn, Pandas, Plotly
+**Bioinformatics & ML —** Genomic Sequence Analysis, Nanopore Signal Processing, Deep Learning (PyTorch), Sequence Alignment
 
 ### EXPERIENCE
 
-**Graduate Research Assistant** - BC Cancer's Genome Sciences Centre
+**Graduate Research Assistant** - BC Cancer
 <span style="float: right; ">2021 - Present</span>
-- Member of the Bioinformatics Technology Lab ([birollab.ca](https://birollab.ca))
-- Worked in a multidisciplinary research environment, collaborating with genomics scientists and software engineers
-- Developed tools in C++ and Python for genomics analysis
-- Used machine learning and deep learning for assembly polishing and nanopore signal analysis
+- **System Design:** Architected high-performance C++ tools libraries (e.g., ntHash2, AIEdit, ntStat, and btllib) designed for large-scale data processing, handling billions of genomic sequences with a focus on memory efficiency and speed.
+- **Integration & Testing:** Developed Python/C++ interfaces and implemented rigorous unit testing suites to ensure the reliability of core sequence analysis modules.
+- **Technical Leadership:** Lead developer on multiple open-source projects; collaborated with cross-functional teams to translate complex scientific requirements into extensible software tools.
+- **CI/CD:** Managed software lifecycles using GitHub Actions for automated testing and deployment, maintaining production-level standards for bioinformatics research tools.
 
 **Backend Developer and System Administrator** - University of Isfahan
 <span style="float: right; ">2018 - 2021</span>
-- Lead developer of the University of Isfahan's Alumni Social Website
-- Deployed and maintained as a Django app on a Linux server with nginx and uwsgi
+- **Backend Engineering:** Developed the University’s Alumni Social platform using Django, implementing a REST API architecture designed to scale with growing user traffic.
+- **Database Management:** Designed and managed relational data models in PostgreSQL, optimizing schemas for efficient data retrieval and storage.
+- **DevOps:** Managed the full deployment stack on Linux servers using Nginx and uWSGI
 
 **Teaching Assistant** - University of Isfahan
 <span style="float: right; ">2016 - 2020</span>
-- Fundamentals of Computer Programming (C++) and Advanced Programming (Java/C++)
-- Data Structures and Algorithm Design
-- Artificial Intelligence (developed a game environment for evaluating final projects)
-- Technical English for Computer Engineering
+- **Technical Instruction:** Taught Advanced Programming in **Java** and **C++**, focusing on Object-Oriented Design (OOD), data structures, and algorithm efficiency.
+- **Project Evaluation:** Engineered a custom game environment to provide a standardized, automated platform for testing and grading student AI project submissions.
 
 ### EDUCATION
 
-**PhD Candidate in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - Present</span>  
-- 1 first-author publication, 4 paper collaborations
+**PhD in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - 2026</span>  
+- Focus: High-performance software for genomic sequence analysis and Oxford Nanopore signal data.
 
 **MSc in Computer Engineering (AI)** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
 - Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments 
