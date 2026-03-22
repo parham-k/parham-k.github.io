@@ -18,23 +18,39 @@
 }
 
 @media print {
+    @page {
+        size: letter;
+        margin: 1.5cm;
+    }
+
     body {
-        font-family: "Arial", sans-serif;
+        font-family: "Inter", sans-serif;
+        font-size: 10pt;
+        line-height: 1.5;
+    }
+
+    h1 {
+        color: #0f7173;
+        font-size: 14pt;
+        margin-top: 0.25cm;
+        border-bottom: 1px solid #0f7173;
+    }
+
+    h2 {
         font-size: 12pt;
-        line-height: 1.25;
+        margin-top: 0.25cm;
+        margin-bottom: 0cm;
     }
 
     h3 {
-        font-weight: bold;
-        border-bottom: 1px solid #000;
-        font-family: "Arial", sans-serif;
-        margin-top: 0.5cm;
+        font-size: 10pt;
+        margin-top: 0;
         margin-bottom: 0.25cm;
     }
 
-    li { 
-        margin-bottom: 0;  
-     }
+    li {
+        margin-bottom: 0;
+    }
 
     p {
         margin-bottom: 0;
@@ -44,19 +60,32 @@
         display: none;
     }
 
-    .cv-header {
+    .cv-header h1 {
+        font-size: 20pt;
         font-weight: bold;
-        margin-bottom: 0.5cm;
+        text-align: center;
+        border-bottom: 0;
+        margin-top: 0;
+        margin-bottom: 0;
     }
 
-    .cv-header p {
-        font-size: xx-large;
+    .cv-header h2 {
+        font-size: 12pt;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .cv-header h3 {
+        font-size: 10pt;
         text-align: center;
     }
 
     .cv-header table {
         width: 100%;
         text-align: center;
+        margin-bottom: 12pt;
+        font-weight: bold;
+        font-size: 10pt;
     }
 
     .wrapper {

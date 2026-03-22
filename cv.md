@@ -9,11 +9,12 @@ slug: /cv
 
 <div class="cv-header">
 
-<p>PARHAM KAZEMI</p>
+<h1>PARHAM KAZEMI</h1>
+<h3>Vancouver, BC • pkazemi3@gmail.com</h3>
+<h2>Software Engineer • High-Performance Systems Developer • Deep Learning Researcher</h2>
 
 <table>
   <tr>
-    <td>pkazemi3@gmail.com</td>
     <td>parham-k.github.io</td>
     <td>github.com/parham-k</td>
     <td>linkedin.com/in/p-kazemi</td>
@@ -24,56 +25,66 @@ slug: /cv
 
 <div class="cv" markdown="1">
 
-Software Engineer & PhD Candidate with 8+ years of experience specializing in high-performance C++ and backend systems (Java, Python/Django). Expert in architecting scalable solutions for processing massive datasets (billions of data points), leading technical teams, and optimizing production-grade CI/CD pipelines.
+<div style="text-align: justify;">
+I am a Software Engineer and Researcher with 8+ years of experience in developing high-performance C++ tools, backend systems, and deep learning models. I specialize in building production-grade software that handles terabytes of signal, natural language, and genomic data. My focus is integrating cutting-edge research in algorithms and AI with performant, maintainable code at scale.
+</div>
 
-### SKILLS
+# CORE SKILLS
 
-**Backend & Distributed Systems —** Java, Python (Django), REST APIs, Microservices Architecture, Unit Testing
+**Software Engineering:** Agile/Scrum, Clean Code, CI/CD & DevOps, Docker, Unit Testing, Git, Documentation
 
-**High-Performance Computing —** C++, Multi-threading, System Design, Memory Optimization, Performance Profiling
+**High-Performance Computing:** C++, Parallelism, SIMD/Vectorization, Memory Optimization, Performance Profiling
 
-**Data Modeling & Cloud —** PostgreSQL, MySQL, NoSQL, Docker, Azure, CI/CD (GitHub Actions, Jenkins)
+**Backend & System Design:** Django, REST APIs, Microservices, Distributed Systems, SQL, NoSQL, SysAdmin
 
-**Bioinformatics & ML —** Genomic Sequence Analysis, Nanopore Signal Processing, Deep Learning (PyTorch), Sequence Alignment
+**AI & Data Engineering:** Deep Learning (PyTorch, libtorch), NLP, Signal Processing, pybind11, Terabyte-scale
 
-### EXPERIENCE
+**Bioinformatics:** DNA Sequence Analysis, Genome Assembly, Nanopore Signal, Algorithm Design
 
-**Graduate Research Assistant** - BC Cancer
-<span style="float: right; ">2021 - Present</span>
-- **System Design:** Architected high-performance C++ tools libraries (e.g., ntHash2, AIEdit, ntStat, and btllib) designed for large-scale data processing, handling billions of genomic sequences with a focus on memory efficiency and speed.
-- **Integration & Testing:** Developed Python/C++ interfaces and implemented rigorous unit testing suites to ensure the reliability of core sequence analysis modules.
-- **Technical Leadership:** Lead developer on multiple open-source projects; collaborated with cross-functional teams to translate complex scientific requirements into extensible software tools.
-- **CI/CD:** Managed software lifecycles using GitHub Actions for automated testing and deployment, maintaining production-level standards for bioinformatics research tools.
+# EXPERIENCE
 
-**Backend Developer and System Administrator** - University of Isfahan
-<span style="float: right; ">2018 - 2021</span>
-- **Backend Engineering:** Developed the University’s Alumni Social platform using Django, implementing a REST API architecture designed to scale with growing user traffic.
-- **Database Management:** Designed and managed relational data models in PostgreSQL, optimizing schemas for efficient data retrieval and storage.
-- **DevOps:** Managed the full deployment stack on Linux servers using Nginx and uWSGI
+## Graduate Research Assistant
+### BC Cancer Research Institute <span style="float: right; ">2021 - Present</span>
 
-**Teaching Assistant** - University of Isfahan
-<span style="float: right; ">2016 - 2020</span>
-- **Technical Instruction:** Taught Advanced Programming in **Java** and **C++**, focusing on Object-Oriented Design (OOD), data structures, and algorithm efficiency.
-- **Project Evaluation:** Engineered a custom game environment to provide a standardized, automated platform for testing and grading student AI project submissions.
+- **Intellectual Property:** Filed a provisional patent for thesis-derived technology (2026).
+- **Software Engineering:** Lead developer for open-source projects; implemented pybind11 interfaces and CI/CD and published on Bioconda.
+- **High-Performance Computing:** Optimized C++ libraries (ntHash2, ntStat) for 100GB-scale genomic datasets. Focused on parallelism and custom memory management to maximize throughput.
+- **Machine Learning:** Developed AIEdit, an ML-based genome assembly polisher. Managed the full engineering lifecycle from PyTorch modeling to high-performance libtorch/C++ deployment.
+- **Deep Learning:** Utilized Transformers to analyze and basecall terabyte-scale raw nanopore signal data; orchestrated large-scale training and inference workloads using SLURM on high-performance clusters.
+- **Applied Research & Development:** Authored and reviewed high-impact research in Bioinformatics and PLOS CB; presented at international venues.
 
-### EDUCATION
+## Backend Developer and System Administrator
+### University of Isfahan <span style="float: right; ">2018 - 2021</span>
 
-**PhD in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - 2026</span>  
+- **Backend Development:** Engineered a Django-based Alumni Social platform; integrated legacy university systems to automate real-time data synchronization and alumni profile provisioning. Implemented a verification engine that cross-referenced credentials against institutional records to enable instant, automated social network registration.
+- **Database design:** Managed PostgreSQL relational models for the university-wide alumni database, optimizing schemas for high-concurrency retrieval and data integrity.
+- **Infrastructure:** Administered the full production stack on Linux (Nginx/uWSGI) to maintain high availability for the institution’s core networking platform
+
+## Teaching Assistant
+### University of Isfahan <span style="float: right; ">2016 - 2020</span>
+ 
+- **Technical mentorship:** Taught Advanced Programming in Java and C++, focusing on Object-Oriented Design (OOD), data structures, and algorithm efficiency
+- **AI & Automation:** Developed a custom game environment to provide a standardized, automated platform for testing and grading student AI project submissions.
+
+# EDUCATION
+
+**PhD in Bioinformatics** - University of British Columbia <span style="float: right; ">2021 - 2026</span>
 - Focus: High-performance software for genomic sequence analysis and Oxford Nanopore signal data.
 
-**MSc in Computer Engineering (AI)** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
-- Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments 
-- GPA: 18.42/20
-- 1 first-author publication
+**MSc in Computer Engineering** - University of Isfahan <span style="float: right; ">2019 - 2021</span>
+- Thesis: Deep Reinforcement Learning for Training Intelligent Agents in Natural Language Environments
+- GPA: 18.42/20 (highest in cohort)
 
-**BSc in Computer Engineering (Software)** - University of Isfahan <span style="float: right; ">2015 - 2019</span>  
+**BSc in Computer Engineering** - University of Isfahan <span style="float: right; ">2015 - 2019</span>  
 - Thesis: Predicting Persian Twitter Users' MBTI Personality Using Text Mining Methods
 - GPA: 18.25/20 (highest in cohort)
-- Attended ICPC West Asia Regionals 2016 and 2017
-- Competed in Robocup IranOpen 2D Soccer Simulation League 2017
-- Finalist at the National Computer Engineering Olympiad 2019
 
-### VOLUNTARY & EXTRACURRICULAR WORK
+# HONOURS AND AWARDS
+- **Finalist:** National Computer Engineering Olympiad (2019)
+- **Competitive Programming:** ACM-ICPC West Asia Regional Contest participant (2016, 2017)
+- **Robotics:** Robocup IranOpen 2D Soccer Simulation League competitor (2017)
+
+# VOLUNTARY & EXTRACURRICULAR WORK
 
 **Student Mentor** - Undergraduate Research Opportunities (UBC URO)
 <span style="float: right; ">2024 - 2025</span>
@@ -84,7 +95,7 @@ Software Engineer & PhD Candidate with 8+ years of experience specializing in hi
 <span style="float: right; ">2024</span>
 - Reviewed and adjudicated undergraduate posters related to bioinformatics and genome sequencing
 
-**Volunteer Organizer** - Vancouver Bioinformatics User Group ([vanbug.org](https://vanbug.org/))
+**Volunteer Organizer** - Vancouver Bioinformatics User Group (vanbug.org)
 <span style="float: right; ">2023 - 2024</span>
 - Responsible for promoting monthly bioinformatics seminars by local and international speakers
 
@@ -94,11 +105,11 @@ Software Engineer & PhD Candidate with 8+ years of experience specializing in hi
 - Instructed Python and Django courses
 - Assisted in technical setup for high school and undergraduate programming contests and AI challenges
 
-### PUBLICATIONS
+# PUBLICATIONS
 
 - Warren, R. L., Coombe, L., Wong, J., **Kazemi, P.**, & Birol, I. (2025). ntRoot: computational inference of human ancestry at scale from genomic data. Bioinformatics Advances, vbaf287. [doi:10.1093/bioadv/vbaf287](https://doi.org/10.1093/bioadv/vbaf287)
 
-- Coombe, L., Kazemi, P., Wong, J., Birol, I., & Warren, R. L. (2025). ntSynt: multi-genome synteny detection using minimizer graph mappings. BMC biology, 23(1), 367. [doi:10.1186/s12915-025-02455-w](https://doi.org/10.1186/s12915-025-02455-w)
+- Coombe, L., **Kazemi, P.**, Wong, J., Birol, I., & Warren, R. L. (2025). ntSynt: multi-genome synteny detection using minimizer graph mappings. BMC biology, 23(1), 367. [doi:10.1186/s12915-025-02455-w](https://doi.org/10.1186/s12915-025-02455-w)
 
 - Wong, J., **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (11 2023). aaHash: recursive amino acid sequence hashing. Bioinformatics Advances, vbad162. [doi:10.1093/bioadv/vbad162](https://doi.org/10.1093/bioadv/vbad162)
 
@@ -108,7 +119,7 @@ Software Engineer & PhD Candidate with 8+ years of experience specializing in hi
 
 - **Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. [doi:10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
 
-### PRESENTATIONS & TALKS
+# PRESENTATIONS & TALKS
 
 - [Modelling k-mer profiles of sequencing data with evolutionary algorithms](https://www.vanbug.org/archive/2025/2025-02-20/) (Vancouver Bioinformatics User Group, 2025)
 
