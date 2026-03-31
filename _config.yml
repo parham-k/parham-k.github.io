@@ -24,7 +24,7 @@ footer:
       icon: fa-solid fa-envelope-open-text
     - type: email
       name: Work
-      value: pkazemi@bcgsc.ca
+      value: pkazemi@bccrc.ca
       icon: fa-solid fa-envelope-open-text
   follow:
     - type: twitter
