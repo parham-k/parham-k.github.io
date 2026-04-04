@@ -96,6 +96,8 @@ Software Engineer and Deep Learning Researcher with 8+ years of experience build
 
 # PUBLICATIONS
 
+- **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (2026). ntStat: k-mer characterization using occurrence statistics in raw sequencing data. PLOS Computational Biology, 22(4), e1014158. [doi:10.1371/journal.pcbi.1014158](https://doi.org/10.1371/journal.pcbi.1014158)
+
 - **Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi:10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
 - **Kazemi, P.**, & Karshenas, H. (2021). Fuzzy Word Sense Induction and Disambiguation. IEEE Transactions on Fuzzy Systems, 30(9), 3918–3927. [doi:10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
 
