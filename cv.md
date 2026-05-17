@@ -96,6 +96,8 @@ Software Engineer and Deep Learning Researcher with 8+ years of experience build
 
 # PUBLICATIONS
 
+- **Kazemi, P.**, Sánchez Olivares, I., Warren, R. L., Coombe, L., & Birol, I. (2026). AIEdit: Alignment-free genome assembly polisher trained on spaced seed match patterns. PLoS Computational Biology, 22(5), e1014245. [doi:10.1371/journal.pcbi.1014245](https://doi.org/10.1371/journal.pcbi.1014245)
+
 - **Kazemi, P.**, Coombe, L., Warren, R. L., & Birol, I. (2026). ntStat: k-mer characterization using occurrence statistics in raw sequencing data. PLOS Computational Biology, 22(4), e1014158. [doi:10.1371/journal.pcbi.1014158](https://doi.org/10.1371/journal.pcbi.1014158)
 
 - **Kazemi, P.**, Wong, J., Nikolić, V., Mohamadi, H., Warren, R. L., & Birol, I. (2022). ntHash2: recursive spaced seed hashing for nucleotide sequences. Bioinformatics, 38(20), 4812–4813. [doi:10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
@@ -105,8 +107,8 @@ Software Engineer and Deep Learning Researcher with 8+ years of experience build
 
 # PRESENTATIONS
 
+- Improving Nanopore Assembly Quality at the Basecalling and Polishing Stages (Poster at RECOMB 2026)
 - [Not so artificial intelligence](https://www.ted.com/talks/parham_kazemi_not_so_artificial_intelligence) (TEDx University of Isfahan, 2021)
 - [Modelling k-mer profiles of sequencing data with evolutionary algorithms](https://www.vanbug.org/archive/2025/2025-02-20/) (VanBUG, 2025)
-- ntHits: k-mer profiling and filtering for raw sequencing data (Poster at RECOMB-seq, Istanbul, 2023)
 
 </div>
