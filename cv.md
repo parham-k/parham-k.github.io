@@ -30,15 +30,15 @@ Software Engineer and Deep Learning Researcher with 8+ years of experience build
 
 # CORE SKILLS
 
-**Software Engineering:** C#, Java, Git, Docker, CI/CD, Azure, AWS, Unit Testing, Code Review, pybind11
+**Software Engineering:** C#, Java, Git, Docker, CI/CD, Unit Testing, pybind11
 
 **High-Performance Computing:** C++, Parallelism, Vectorization, Memory Optimization, Performance Profiling
 
-**Backend & System Design:** Python, Django, REST APIs, Microservices, SQL, NoSQL, Nginx, uWSGI, Linux
+**Backend & System Design:** Python, Django, REST APIs, Microservices, SQL, Nginx, uWSGI, Linux
 
-**AI & Data Engineering:** PyTorch/libtorch, NLP, Signal Processing, CUDA, SLURM, FlashAttention, HuggingFace
+**AI & Data Engineering:** PyTorch/libtorch, NLP, Signal Processing, CUDA, SLURM, HuggingFace
 
-**Bioinformatics:** DNA Sequence Analysis, Genome Assembly, Nanopore Signal, Variant Calling
+**Bioinformatics:** Algorithm Design, Genome Assembly, Nanopore Signal Analysis, Variant Calling
 
 # EXPERIENCE
 
@@ -53,8 +53,8 @@ Software Engineer and Deep Learning Researcher with 8+ years of experience build
 ## Backend Developer and System Administrator
 ### University of Isfahan <span style="float: right; ">2018 - 2021</span>
 
-- Built an Alumni Social platform in **Django** with **PostgreSQL**, still in production, including a credential verification engine with live institutional syncing.
-- Administered the production stack on **Linux** using **Nginx** and **uWSGI** for high availability on the institution's core networking platform.
+- Built an Alumni Social platform in **Django** with **PostgreSQL**, including a credential verification engine with institutional syncing.
+- Administered the production stack on **Linux** using **Nginx** and **uWSGI** on the university's networking platform. Still maintained and in production.
 - Developed a ticketing system integrating SMS APIs and payment gateways.
 
 ## Course Instructor and Teaching Assistant
