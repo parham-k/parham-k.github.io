@@ -6,14 +6,14 @@ items:
   - title: AIEdit
     link: https://github.com/BirolLab/AIEdit
     image:
-      src: https://github.com/BirolLab/AIEdit/blob/main/logo.png?raw=true
+      src: /assets/img/projects/aiedit.jpg
       alt: AIEdit Logo
     description: Think of genome assembly polishing as a spell-check for DNA. I built AIEdit, a neural network-based tool that spots and fixes "spelling" errors in genome assemblies. Older tools usually force you to choose between speed, memory efficiency, or accuracy. They either take days to run, occupy all your system's RAM, or use heuristics that scale but sacrifice accuracy. To fix this, I trained a neural network to detect error patterns using spaced seeds (from ntHash2) and their counts (from ntStat, both below). It produces highly accurate results in a fraction of the time compared to other deep learning-based tools, and it uses up to 3x less memory.
 
   - title: ntStat
     link: https://github.com/BirolLab/ntStat
     image:
-      src: https://placehold.co/600x600?text=ntStat
+      src: /assets/img/projects/ntstat.jpg
       alt: ntStat Logo
     description: Analyzing a genome often involves counting billions of short substrings of a fixed length (k-mers), which can easily max out a standard computer's memory. ntStat is a high-performance C++ tool we built to gather k-mer TF-IDF information efficiently using a cascade of Bloom filters. To characterize these k-mers directly from their counts, ntStat uses differential evolution to fit a mixture model to the count histogram. This approach keeps accuracy high (over 99.5%) and completely removes the need to store huge data structures on disk, making the whole process much faster and memory-efficient.
 
