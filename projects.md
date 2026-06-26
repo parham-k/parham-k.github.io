@@ -15,7 +15,7 @@ items:
     image:
       src: https://placehold.co/600x600?text=ntStat
       alt: ntStat Logo
-    description: Analyzing a genome often involves counting billions of short substrings of a fixed length (k-mers), which can easily max out a standard computer's memory. ntStat is a high-performance C++ tool we built to count k-mers efficiently using a cascade of Bloom filters. To characterize these k-mers directly from their counts, ntStat uses differential evolution to fit a mixture model to the count histogram. This approach keeps accuracy high (over 99.5%) and completely removes the need to store huge data structures on disk, making the whole process much faster and memory-efficient.
+    description: Analyzing a genome often involves counting billions of short substrings of a fixed length (k-mers), which can easily max out a standard computer's memory. ntStat is a high-performance C++ tool we built to gather k-mer TF-IDF information efficiently using a cascade of Bloom filters. To characterize these k-mers directly from their counts, ntStat uses differential evolution to fit a mixture model to the count histogram. This approach keeps accuracy high (over 99.5%) and completely removes the need to store huge data structures on disk, making the whole process much faster and memory-efficient.
 
   - title: ntHash2
     link: https://github.com/BirolLab/ntHash
