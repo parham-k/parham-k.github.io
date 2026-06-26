@@ -25,7 +25,7 @@ slug: /cv
 <div class="cv" markdown="1">
 
 <div style="text-align: justify;">
-Software Engineer and Deep Learning Researcher with 8+ years of experience building high-performance C++ tools for large-scale genomics, CNN/Transformer models for NLP and signal processing, and backend systems. My work has resulted in 6 peer-reviewed publications, a provisional patent (2026), and software shipped across academic and production settings, turning cutting-edge research into reliable, maintainable code.
+Software Engineer and Deep Learning Researcher with 8+ years of experience building high-performance C++ tools for large-scale genomics, CNN/Transformer models for NLP and signal processing, and backend systems. My work has resulted in 4 peer-reviewed publications, a provisional patent (2026), and software shipped across academic and production settings, turning cutting-edge research into reliable, maintainable code.
 </div>
 
 # CORE SKILLS
