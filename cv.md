@@ -29,7 +29,7 @@ slug: /cv
 
 <div style="text-align: justify;"  markdown="1">
 
-**Software Engineer and Machine Learning Researcher** specializing in high-performance computing (**C++**) and self-supervised deep learning (**Python/PyTorch**). Experienced in integrating complex computational models into highly optimized, production-grade software. Proven track record of training CNN/Transformer models on GPU clusters and designing efficient bioinformatics algorithms for 100GB+ to **terabyte-scale** datasets (**4 first-author papers, 1 patent**).
+**Machine Learning Engineer and Software Developer** specializing in deep learning (**Python/PyTorch**) and high-performance computing (**C++**). Experienced in integrating large-scale computational models into highly optimized, production-grade software. Proven track record of training CNN/Transformer models on GPU clusters and designing efficient bioinformatics algorithms for 100GB+ to **terabyte-scale** datasets (**4 first-author papers, 1 patent**).
 
 </div>
 
@@ -37,22 +37,23 @@ slug: /cv
 
 **Programming Languages:** C++, Python, Java, SQL, Bash
 
-**ML & AI:** PyTorch/libtorch, HuggingFace, NLP, Signal Processing, RL, Self-Supervised Learning, Quantization, ONNX
+**ML & AI:** PyTorch/libtorch, HuggingFace, RL, Self-Supervised Learning, Quantization, ONNX
 
 **Software Engineering:** Django, REST APIs, PostgreSQL, Docker, Nginx, Git, CI/CD, CMake, pybind11
 
 **High-Performance Computing:** OpenMP, SIMD Vectorization, Memory Optimization, CUDA, SLURM, Valgrind
 
-**Bioinformatics:** Alignment-Free Sequence Analysis, Genome Assembly, Nanopore Signal Analysis
+**Domain & Data Specialties:** NLP, Bioinformatics, Unstructured Data, Sequence Analysis, Signal Processing
 
 # EXPERIENCE
 
 ## Graduate Research Assistant
 ### BC Cancer Research Institute (September 2021 - Present)
 
-- Architect and manage the full software development lifecycle (SDLC) of **4 open-source** genomic libraries and pipelines, from algorithmic design to release.
-- Develop high-performance C++ pipelines utilizing multi-threading (**OpenMP**), **SIMD vectorization**, and memory optimization to accelerate genomic sequence analysis for **100GB+ datasets**, shipping Python bindings via **pybind11** and automated **CI/CD** on Bioconda.
-- Train **self-supervised** CNN and Transformer models on **terabyte-scale** raw signal datasets, using **FlashAttention**, **CUDA**, and **SLURM**-managed GPU clusters to optimize throughput.
+- Architect and manage the full software development lifecycle of **4 open-source** genomic libraries and pipelines.
+- Develop high-performance C++ pipelines with multi-threading (**OpenMP**) and memory optimization to accelerate sequence analysis for **100GB+ datasets**.
+- Ship Python bindings via **pybind11** and automated **CI/CD** with package release pipelines (Bioconda).
+- Train **self-supervised** CNN and Transformer models on **terabyte-scale** signal datasets with **Flow Matching** and **Gromov-Wasserstein Optimal Transport**, using **FlashAttention**, **CUDA**, and **SLURM**-managed GPU clusters.
 
 ## Backend Developer and System Administrator
 ### University of Isfahan (September 2018 - September 2021)
@@ -73,8 +74,8 @@ slug: /cv
 ## PhD in Bioinformatics
 ### University of British Columbia (September 2021 - Expected 2026)
 
-- Thesis: Deep Learning for High-Quality Nanopore Basecalling and Assembly
-- Advisor: [Dr. Inanc Birol](https://www.birollab.ca/)
+- Thesis: Computational Representations for Nanopore Basecalling and Assembly Polishing
+- Supervisor: [Dr. Inanc Birol](https://www.birollab.ca/)
 
 ## MSc in Computer Engineering
 ### University of Isfahan (September 2019 - June 2021)
@@ -91,27 +92,27 @@ slug: /cv
 
 # PROJECTS AND PUBLICATIONS
 
-## Myrid: Self-Supervised Nanopore Basecaller
+## Myrid: Self-Supervised Deep Learning for Raw Signal Processing
 ### Provisional U.S. patent filed in 2026
 
-- Developed a self-supervised basecaller trained without labeled data to eliminate chemistry-release lag.
-- Presented as a poster at *RECOMB 2026* (Thessaloniki, Greece).
+- Architected a self-supervised sequence model trained directly on raw nanopore signals without labeled data, eliminating chemistry-dependent model retraining.
+- Presented model benchmarks and architecture as a poster at *RECOMB 2026* (Thessaloniki, Greece).
 
-## AIEdit: Alignment-Free ML-Based Assembly Polisher
+## AIEdit: Alignment-Free ML-Based Genome Assembly Correction
 
 ### GitHub: [BirolLab/AIEdit](https://github.com/BirolLab/AIEdit) - PLOS CB: [10.1371/journal.pcbi.1014245](https://doi.org/10.1371/journal.pcbi.1014245)
 
-- Engineered deep learning models in PyTorch and compiled into C++ using TorchScript and pybind11.
-- Achieves **58% error reduction vs. 21%** for the prior approach, **2.7 hours vs. multi-day** runtimes for comparable tools, using **3× less memory** than the next best alternative on human-scale data.
+- Engineered deep learning sequence models in PyTorch and compiled them directly into C++ using TorchScript and pybind11 for low-latency inference.
+- Achieved **58% error reduction vs. 21%** for prior methods, dropping run times **from days to 2.7 hours** using **3× less memory** on human-scale data.
 
 ## ntStat: Toolkit for Statistical Analysis of K-mer Frequency and Depth
 
 ### GitHub: [BirolLab/ntStat](https://github.com/BirolLab/ntStat) - PLOS CB: [10.1371/journal.pcbi.1014158](https://doi.org/10.1371/journal.pcbi.1014158)
 
-- Tracks k-mer count and depth *de novo* using succinct Bloom filter data structures, achieving lower memory usage and faster processing than other non-disk counters with 99.5-99.9% accuracy.
+- Tracks k-mer/n-gram count and depth *de novo* using Bloom filter data structures, maintaining 99.5-99.9% accuracy at reduced memory usage.
 - Components written in Python and C++, integrated together with pybind11.
 
-## ntHash2: Recursive Spaced Seed Hash Function for Nucleotide Sequences
+## ntHash2: High-Throughput Rolling Hash Algorithm
 
 ### GitHub: [BirolLab/ntHash](https://github.com/BirolLab/ntHash) - Bioinformatics: [10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
 
@@ -133,7 +134,7 @@ slug: /cv
 # VOLUNTEER EXPERIENCE
 
 **Student Mentor & Conference Adjudicator** — UBC (2024 - 2025)
-- Mentored 5 students (CS, biochemistry, and medical backgrounds) through UBC's Undergraduate Research Opportunities program.
+- Mentored 5 students through UBC's Undergraduate Research Opportunities program.
 - Adjudicated undergraduate research posters at UBC's Multidisciplinary Undergraduate Research Conference.
 
 **Volunteer Organizer** — Vancouver Bioinformatics User Group, VanBUG (2023 - 2024)
