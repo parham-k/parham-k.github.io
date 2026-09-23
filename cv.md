@@ -53,7 +53,7 @@ slug: /cv
 - Architect and manage the full software development lifecycle of **4 open-source** genomic libraries and pipelines.
 - Develop high-performance C++ pipelines with multi-threading (**OpenMP**) and memory optimization to accelerate sequence analysis for **100GB+ datasets**.
 - Ship Python bindings via **pybind11** and automated **CI/CD** with package release pipelines (Bioconda).
-- Train **self-supervised** CNN and Transformer models on **terabyte-scale** signal datasets with **Flow Matching** and **Gromov-Wasserstein Optimal Transport**, using **FlashAttention**, **CUDA**, and **SLURM**-managed GPU clusters.
+- Train **self-supervised** CNN and Transformer models on **terabyte-scale** signal datasets using **FlashAttention**, **CUDA**, and **SLURM**-managed GPU clusters.
 
 ## Backend Developer and System Administrator
 ### University of Isfahan (September 2018 - September 2021)
