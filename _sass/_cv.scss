@@ -46,7 +46,7 @@
         position: absolute;
         right: -1rem;
         transform: translateX(50%);
-        color: #0f7173;
+        color: $brand-color;
     }
 
     .cv-header h1 {
@@ -68,14 +68,15 @@
         font-family: "Helvetica", "Arial", sans-serif;
         font-size: 10pt;
         line-height: 1.15;
+        print-color-adjust: exact;
     }
 
     h1 {
-        color: #0f7173;
+        color: $brand-color;
         font-size: 12pt;
         margin-top: 0.2cm;
         margin-bottom: 0;
-        border-bottom: 1px solid #0f7173;
+        border-bottom: 1px solid $brand-color;
     }
 
     h2 {

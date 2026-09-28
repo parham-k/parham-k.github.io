@@ -7,16 +7,16 @@
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: Lora, Helvetica, Arial, sans-serif;
+$base-font-family: Inter, Helvetica, Arial, sans-serif;
 $base-font-size: 16px;
 $small-font-size: $base-font-size * 0.875;
-$base-line-height: 1.7;
+$base-line-height: 1.75;
 
-$spacing-unit: 30px;
+$spacing-unit: 20px;
 
 $text-color: #111;
 $background-color: #fdfdfd;
-$brand-color: #2a7ae2;
+$brand-color: #0F4C81;
 
 $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
