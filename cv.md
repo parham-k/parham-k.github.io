@@ -35,7 +35,7 @@ ML Researcher and Software Engineer specializing in deep learning (Python/PyTorc
 ### BC Cancer Research Institute | September 2021 – Present
 
 - Architect and maintain the full software development lifecycle for open-source tools (10,000+ downloads).
-- Train 100M+ parameter CNNs and Transformers on **TB-scale** signals via multi-GPUs (**PyTorch**, **CUDA**, **SLURM**).
+- Train 100M+ parameter CNNs and Transformers on **TB-scale** multimodal data (**PyTorch**, **CUDA**, **SLURM**).
 - Engineer multithreaded (**OpenMP**) **C++** tools for 160GB+ data, cutting runtime from days to 2.7h and RAM by 3x.
 - Ship **pybind11** and **libtorch** Python to C++ bindings and automated **CI/CD** release pipelines (**Bioconda**, **Docker**).
 - Spearheaded bioinformatics R&D, yielding a provisional U.S. patent, 4 first-author papers, and grant funding.
@@ -58,7 +58,7 @@ ML Researcher and Software Engineer specializing in deep learning (Python/PyTorc
 # SKILLS
 
 **Languages & Frameworks:** Python • C++ • Java • SQL • Bash • Django • PostgreSQL • PyTorch • libtorch<br>
-**Machine Learning:** Transformers • NLP • Language Modelling • Self-Supervision • RL • Signal Processing • NLTK<br>
+**Machine Learning:** Transformers • NLP • Language Modelling • Self-Supervision • RL • Signal Processing • JEPA<br>
 **Systems & HPC:** CUDA • OpenMP • SLURM • pybind11 • Memory Optimization • Linux<br>
 **Developer Tools:** Docker • Git • CMake • Meson • CI/CD • Bioconda • Nginx • LaTeX
 
