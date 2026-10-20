@@ -16,7 +16,7 @@ slug: /cv
   <a href="mailto:pkazemi3@gmail.com">pkazemi3@gmail.com</a>
   <span>+1 604-727-1834</span>
   <a href="https://github.com/parham-k">github.com/parham-k</a>
-  <a href="https://linkedin.com/in/p-kazemi">linkedin.com/in/p-kazemi</a>
+  <a href="https://www.linkedin.com/in/p-kazemi">linkedin.com/in/p-kazemi</a>
 </div>
 
 </div>
@@ -25,7 +25,7 @@ slug: /cv
 
 <div style="text-align: justify;"  markdown="1">
 
-Machine Learning and Software Engineer specializing in deep learning architectures, natural language processing, and inference optimization. Proven track record of designing self-supervised Transformers and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into low-latency, production-grade ML systems.
+Machine Learning Software Engineer specializing in deep learning, natural language processing, and inference optimization. Proven track record of designing self-supervised Transformers and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into low-latency, production-grade ML systems.
 
 </div>
 
@@ -34,26 +34,26 @@ Machine Learning and Software Engineer specializing in deep learning architectur
 ## Machine Learning Software Engineer (PhD Research Assistant)
 ### BC Cancer Research Institute | September 2021 – Present
 
-- Architect and maintain the full software development lifecycle for sequence modelling tools (10,000+ downloads).
-- Train 100M+ parameter CNNs and Transformers on **TB-scale** multimodal data (**PyTorch**, **CUDA**, **SLURM**).
-- Engineer and optimize **C++** inference tools, cutting runtime from days to 2.7h and RAM by 3x (**OpenMP**, **libtorch**).
-- Ship production-ready **pybind11** and **libtorch** bindings with automated **CI/CD** release pipelines (**Docker**).
-- Spearheaded core ML R&D, yielding a provisional U.S. patent, 4 first-author papers, and grant funding.
+- Engineer **C++** inference engines (**libtorch**, **OpenMP**), cutting runtime from days to 2.7h and RAM usage by 3x.
+- Train 100M+ parameter models on **TB-scale**, long-context (>10k tokens) **multimodal** data (**PyTorch**).
+- Quantize models and train on multiple GPUs to improve throughput by an order of magnitude (**CUDA**, **SLURM**).
+- Architect and maintain the full software development lifecycle for open-source **C++** tools (10,000+ downloads).
+- Ship production-ready **pybind11** and **libtorch** bindings with automated **CI/CD** release pipelines (**Docker**, **Azure**).
+- Spearhead core ML R&D, yielding a provisional U.S. patent, 4 first-author papers, and grant funding.
+
+## Machine Learning Researcher (Part-Time)
+### University of Isfahan | September 2016 – September 2021
+
+- Trained **deep reinforcement learning** agents in **NLP** environments utilizing **NLTK** and fuzzy logic.
+- Engineered an **end-to-end** data extraction and text classification pipeline to predict user traits from social media.
+- Instructed **ML**, **NLP**, **Python**, and **Django** courses for the ACM Student Chapter (~20 students per cohort).
+- Built an automated grading platform (**Python**) using sockets, with **C++** and **Java** interfaces for project evaluation.
 
 ## Software Engineer (Contract)
 ### University of Isfahan | September 2018 – September 2019
 
 - Built a **Django** + **PostgreSQL** social platform for 100,000+ alumni with an automated credential verification engine.
 - Administered the production **Linux (Ubuntu)**, **Nginx**, and **uWSGI** stack, ensuring high availability for daily traffic.
-
-## Researcher and Instructor (Part-Time)
-### University of Isfahan | September 2016 – September 2021
-
-- Trained **deep reinforcement learning** agents in **NLP** environments utilizing **NLTK** and fuzzy logic.
-- Engineered an **end-to-end** data extraction and text classification pipeline to predict user traits from social media.
-- Instructed **Python** and **Django** courses for the ACM Student Chapter (~20 students per cohort).
-- Assisted 9 courses (~30 students each) covering ML, Algorithms, Data Structures, **C++**, **Java**, and **Python**.
-- Built an automated grading platform (**Python**) using sockets, with **C++** and **Java** interfaces for project evaluation.
 
 # SKILLS
 
@@ -67,12 +67,12 @@ Machine Learning and Software Engineer specializing in deep learning architectur
 ## PhD in Bioinformatics
 ### University of British Columbia | September 2021 – November 2026
 
-- Focus: Machine Learning & Sequence Modelling (PI: [Dr. Inanc Birol](https://www.birollab.ca/))
+- Focus: Multimodal Machine Learning, Inference Optimization, and Sequence Modelling (PI: [Dr. Inanc Birol](https://www.birollab.ca/))
 
 ## M.Sc. in Computer Engineering
 ### University of Isfahan | September 2019 – June 2021
 
-- Focus: Deep Reinforcement Learning & Natural Language Processing
+- Focus: Deep Learning, Language Modelling, Reinforcement Learning, and Natural Language Processing
 
 ## B.Sc. in Computer Engineering
 ### University of Isfahan | September 2015 – June 2019
@@ -81,7 +81,7 @@ Machine Learning and Software Engineer specializing in deep learning architectur
 
 # PROJECTS
 
-## Myrid: Self-Supervised Deep Learning for Signal Translation
+## Myrid: Self-Supervised Deep Learning for Sensor Signal Translation
 ### Provisional U.S. patent filed in 2026
 
 - Built an end-to-end representation learning pipeline for **TB-scale** temporal data, reducing retraining costs.
