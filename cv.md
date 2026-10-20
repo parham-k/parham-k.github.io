@@ -25,13 +25,13 @@ slug: /cv
 
 <div style="text-align: justify;"  markdown="1">
 
-Machine Learning Researcher and Software Engineer specializing in deep learning architectures, natural language processing, and inference optimization. Proven track record of designing self-supervised Transformers and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into low-latency, production-grade ML systems.
+Machine Learning and Software Engineer specializing in deep learning architectures, natural language processing, and inference optimization. Proven track record of designing self-supervised Transformers and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into low-latency, production-grade ML systems.
 
 </div>
 
 # EXPERIENCE
 
-## Machine Learning Researcher & Software Engineer (PhD Research Assistant)
+## Machine Learning Software Engineer (PhD Research Assistant)
 ### BC Cancer Research Institute | September 2021 – Present
 
 - Architect and maintain the full software development lifecycle for sequence modelling tools (10,000+ downloads).
