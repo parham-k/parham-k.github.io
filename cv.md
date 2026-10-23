@@ -25,18 +25,19 @@ slug: /cv
 
 <div style="text-align: justify;"  markdown="1">
 
-Machine Learning Software Engineer specializing in deep learning, natural language processing, and inference optimization. Proven track record of designing self-supervised Transformers and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into low-latency, production-grade ML systems.
+Machine Learning Software Engineer specializing in foundation models, continuous signal and natural language processing, and inference optimization. Proven track record of designing self-supervised models and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into low-latency, production-grade ML systems.
 
 </div>
 
 # EXPERIENCE
 
-## Machine Learning Software Engineer (PhD Research Assistant)
+## Machine Learning Software Engineer (PhD Researcher)
 ### BC Cancer Research Institute | September 2021 – Present
 
-- Engineer **C++** inference engines (**libtorch**, **OpenMP**), cutting runtime from days to 2.7h and RAM usage by 3x.
-- Train 100M+ parameter models on **TB-scale**, long-context (>10k tokens) **multimodal** data (**PyTorch**).
+- Train 100M+ parameter Transformers on **TB-scale**, long-context (>10k tokens) **multimodal** data (**PyTorch**).
 - Quantize models and train on multiple GPUs to improve throughput by an order of magnitude (**CUDA**, **SLURM**).
+- Design and scale generative **Flow Matching** and **VQ-VAE** models for high-quality data simulation.
+- Engineer **C++** inference engines (**libtorch**, **OpenMP**), cutting runtime from days to 2.7h and RAM usage by 3x.
 - Architect and maintain the full software development lifecycle for open-source **C++** tools (10,000+ downloads).
 - Ship production-ready **pybind11** and **libtorch** bindings with automated **CI/CD** release pipelines (**Docker**, **Azure**).
 - Spearhead core ML R&D, yielding a provisional U.S. patent, 4 first-author papers, and grant funding.
@@ -82,36 +83,35 @@ Machine Learning Software Engineer specializing in deep learning, natural langua
 # PROJECTS
 
 ## Myrid: Self-Supervised Deep Learning for Sensor Signal Translation
-### Provisional U.S. patent filed in 2026
+### Provisional U.S. patent filed in 2026 | PoC presented at RECOMB 2026
 
 - Built an end-to-end representation learning pipeline for **TB-scale** temporal data, reducing retraining costs.
 - Trained a **self-supervised** model, using **quantization** for memory- and compute-efficient inference.
-- Demonstrated **proof-of-concept** results and presented the architecture at RECOMB 2026 (Thessaloniki, Greece).
 
 ## Fuzzy Word Sense Induction and Disambiguation
 
-### First author paper in IEEE Transactions on Fuzzy Systems: [10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
+### Paper: [10.1109/tfuzz.2021.3133905](https://doi.org/10.1109/tfuzz.2021.3133905)
 
 - Designed a context-aware semantic classifier using fuzzy clustering on word embeddings (**BERT**, **word2vec**).
 - Validated the architecture against standard natural language processing benchmarks (SemEval 2010 and 2013).
 
-## AIEdit: Deep Learning for Alignment-Free Sequence Polishing
+## AIEdit: Deep Learning for Alignment-Free CER Improvement
 
-### GitHub: [BirolLab/AIEdit](https://github.com/BirolLab/AIEdit) | First author paper in PLOS CB: [10.1371/journal.pcbi.1014245](https://doi.org/10.1371/journal.pcbi.1014245)
+### GitHub: [BirolLab/AIEdit](https://github.com/BirolLab/AIEdit) | Paper: [10.1371/journal.pcbi.1014245](https://doi.org/10.1371/journal.pcbi.1014245)
 
 - Engineered a production-grade inference engine, compiling **PyTorch** to **C++** via **TorchScript** and **pybind11**.
 - Achieved a 58% error reduction, outperforming the next-best baseline while strictly optimizing latency.
 
 ## ntStat: Toolkit for Statistical Analysis of Sequence Data
 
-### GitHub: [BirolLab/ntStat](https://github.com/BirolLab/ntStat) | First author paper in PLOS CB: [10.1371/journal.pcbi.1014158](https://doi.org/10.1371/journal.pcbi.1014158)
+### GitHub: [BirolLab/ntStat](https://github.com/BirolLab/ntStat) | Paper: [10.1371/journal.pcbi.1014158](https://doi.org/10.1371/journal.pcbi.1014158)
 
 - Implemented n-gram counting via Bloom filters in **C++** (**pybind11**), with 99.5% accuracy at reduced memory usage.
 - Applied differential evolution and BFGS optimization to accurately model token count histograms.
 
 ## ntHash2: High-Throughput Rolling Hash Algorithm for Pattern Matching
 
-### GitHub: [BirolLab/ntHash](https://github.com/BirolLab/ntHash) | First author paper in Bioinformatics: [10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
+### GitHub: [BirolLab/ntHash](https://github.com/BirolLab/ntHash) | Paper: [10.1093/bioinformatics/btac564](https://doi.org/10.1093/bioinformatics/btac564)
 
 - Implemented an optimized algorithm in **C++** and shipped high-performance **Python** bindings via **SWIG**.
 - Accelerates hashing throughput by 3.8× over conventional algorithms for pattern matching (spaced seeds).
