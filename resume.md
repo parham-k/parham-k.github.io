@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CV
-slug: /cv
+title: Resume
+slug: /resume
 ---
 
 <span class="print-button"><a href="javascript:window.print();"><i class="fa-solid fa-print"></i> Print</a></span>
@@ -12,7 +12,6 @@ slug: /cv
 <h1>PARHAM KAZEMI</h1>
 
 <div class="contact-info">
-  <span>Vancouver, BC</span>
   <a href="mailto:pkazemi3@gmail.com">pkazemi3@gmail.com</a>
   <span>+1 604-727-1834</span>
   <a href="https://github.com/parham-k">github.com/parham-k</a>
@@ -25,7 +24,7 @@ slug: /cv
 
 <div style="text-align: justify;"  markdown="1">
 
-Machine Learning Software Engineer specializing in foundation models, continuous signal and natural language processing, and inference optimization. Proven track record of designing self-supervised models and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into low-latency, production-grade ML systems.
+Machine Learning Software Engineer specializing in natural language processing, representation learning, and large-scale data pipelines. Proven track record of designing self-supervised models and multithreaded C++/PyTorch pipelines for terabyte-scale, long-context sequential data. Experienced in bridging research and engineering to deploy models into scalable, real-time ML systems.
 
 </div>
 
@@ -34,10 +33,10 @@ Machine Learning Software Engineer specializing in foundation models, continuous
 ## Machine Learning Software Engineer (PhD Researcher)
 ### BC Cancer Research Institute | September 2021 – Present
 
-- Train 100M+ parameter Transformers on **TB-scale**, long-context (>10k tokens) **multimodal** data (**PyTorch**).
-- Quantize models and train on multiple GPUs to improve throughput by an order of magnitude (**CUDA**, **SLURM**).
-- Design and scale generative **Flow Matching** and **VQ-VAE** models for high-quality data simulation.
+- Train 100M+ parameter **Transformers** on **TB-scale**, long-context (>10k tokens) **multimodal** data (**PyTorch**).
+- Design and scale **self-supervised** representation learning models for **high-dimensional**, terabyte-scale data.
 - Engineer **C++** inference engines (**libtorch**, **OpenMP**), cutting runtime from days to 2.7h and RAM usage by 3x.
+- Quantize models and train on multiple GPUs to improve throughput by an order of magnitude (**CUDA**, **SLURM**).
 - Architect and maintain the full software development lifecycle for open-source **C++** tools (10,000+ downloads).
 - Ship production-ready **pybind11** and **libtorch** bindings with automated **CI/CD** release pipelines (**Docker**, **Azure**).
 - Spearhead core ML R&D, yielding a provisional U.S. patent, 4 first-author papers, and grant funding.
@@ -45,23 +44,23 @@ Machine Learning Software Engineer specializing in foundation models, continuous
 ## Machine Learning Researcher (Part-Time)
 ### University of Isfahan | September 2016 – September 2021
 
+- Engineered an end-to-end ML pipeline for **user modeling**, predicting user traits from social media text data.
 - Trained **deep reinforcement learning** agents in **NLP** environments utilizing **NLTK** and fuzzy logic.
-- Engineered an **end-to-end** data extraction and text classification pipeline to predict user traits from social media.
 - Instructed **ML**, **NLP**, **Python**, and **Django** courses for the ACM Student Chapter (~20 students per cohort).
 - Built an automated grading platform (**Python**) using sockets, with **C++** and **Java** interfaces for project evaluation.
 
 ## Software Engineer (Contract)
 ### University of Isfahan | September 2018 – September 2019
 
-- Built a **Django** + **PostgreSQL** social platform for 100,000+ alumni with an automated credential verification engine.
+- Built a **Django** + **PostgreSQL** social platform for **100,000+ users** with an automated credential verification engine.
 - Administered the production **Linux (Ubuntu)**, **Nginx**, and **uWSGI** stack, ensuring high availability for daily traffic.
 
 # SKILLS
 
-**ML/AI:** Transformers • Sequence Modelling • NLP • Self-Supervision • RL • Representation Learning • LLMs<br>
+**ML/AI:** Recommender Systems • User Modeling • Search & Ranking • Representation Learning • NLP • RL • LLMs<br>
 **Languages/Frameworks:** Python • C++ • PyTorch • libtorch • Django • PostgreSQL<br>
 **Systems/Inference:** CUDA • OpenMP • pybind11 • TorchScript • Model Quantization • Memory Optimization • SLURM<br>
-**Developer Tools:** Docker • Git • CMake • Meson • CI/CD • Linux • Nginx • LaTeX
+**Developer Tools:** Cursor / GitHub Copilot • Docker • Git • CMake • CI/CD • Linux
 
 # EDUCATION
 
@@ -82,10 +81,10 @@ Machine Learning Software Engineer specializing in foundation models, continuous
 
 # PROJECTS
 
-## Myrid: Self-Supervised Deep Learning for Sensor Signal Translation
+## Myrid: Self-Supervised Deep Learning for Large-Scale Signal Data Processing
 ### Provisional U.S. patent filed in 2026 | PoC presented at RECOMB 2026
 
-- Built an end-to-end representation learning pipeline for **TB-scale** temporal data, reducing retraining costs.
+- Built an end-to-end data processing pipeline and representation learning system for **TB-scale** temporal data.
 - Trained a **self-supervised** model, using **quantization** for memory- and compute-efficient inference.
 
 ## Fuzzy Word Sense Induction and Disambiguation
