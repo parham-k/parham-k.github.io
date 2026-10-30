@@ -69,8 +69,11 @@
     body {
         font-family: "Arial", sans-serif;
         font-size: 10pt;
+        background-color: #fff !important;
+        color: #000 !important;
         line-height: 1.15;
-        print-color-adjust: exact;
+        print-color-adjust: exact !important;
+        -webkit-print-color-adjust: exact !important;
     }
 
     h1 {
