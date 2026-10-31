@@ -30,7 +30,7 @@ Machine Learning Software Engineer specializing in natural language processing, 
 
 # EXPERIENCE
 
-## Machine Learning Software Engineer (PhD Researcher)
+## Machine Learning Software Engineer (PhD)
 ### BC Cancer Research Institute | September 2021 – Present
 
 - Train 100M+ parameter **Transformers** on **TB-scale**, long-context (>10k tokens) **multimodal** data (**PyTorch**).
